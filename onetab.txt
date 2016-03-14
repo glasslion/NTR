@@ -1,3 +1,215 @@
+https://github.com/adamwalz/mlclass_ipython | adamwalz/mlclass_ipython: Coursera Machine Learning Exercises in IPython Notebooks
+https://github.com/jdwittenauer/ipython-notebooks | jdwittenauer/ipython-notebooks: A collection of IPython notebooks covering various topics.
+http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb | Jupyter Notebook Viewer
+https://news.ycombinator.com/item?id=9432952 | Ask HN: How does a beginner best spend one week of learning machine learning? | Hacker News
+http://hangtwenty.github.io/dive-into-machine-learning/ | Dive into Machine Learning by hangtwenty
+
+http://www.tuicool.com/articles/6vIBVr3 | React Router & Webpack in Production - 推酷
+http://www.tuicool.com/articles/INNb6nN | Logistic Regression - 推酷
+http://www.tuicool.com/articles/MBnemmF | 微服务架构设计须避开工程师思维 - 推酷
+http://www.tuicool.com/articles/YBvYJfV | File details and owners with gitnoc and git-pandas - 推酷
+http://www.tuicool.com/articles/aMzuEz | Parametric and Nonparametric Machine Learning Algorithms - 推酷
+http://www.tuicool.com/articles/qyA32qV | Python is better than C (Or is it the other way round?) - 推酷
+http://www.tuicool.com/articles/Zr2UBb3 | Software Development Under High Tropicality Conditions - 推酷
+http://www.tuicool.com/articles/vQNBvyu | Kubernetes 联网方案比较 - 推酷
+http://www.tuicool.com/articles/nMfmaeb | 当我谈缓存的时候，我谈些什么 - 推酷
+http://www.tuicool.com/articles/uqU7rmr | Apache流计算框架详细对比 - 推酷
+http://www.tuicool.com/articles/BvMRZrf | 分布式计算背后的隐藏成本 - 推酷
+
+http://antirez.com/news/101 | Is Redlock safe? - <antirez>
+
+http://www.tuicool.com/articles/ZNjYNjq | Linux容器技术的三大致命隐忧 - 推酷
+http://www.tuicool.com/articles/u67f6nV | 深入浅出 ES6：ES6 与 Babel / Broccoli 的联用 - 推酷
+http://www.tuicool.com/articles/JvQBvyj | 硬啃 ：读完这100篇论文，你就能成大数据高手！ - 推酷
+http://www.tuicool.com/articles/3yEbQzZ | Docker IO开销评测 - 推酷
+http://www.tuicool.com/articles/UNzyaeE | Adopting GraphQL - 推酷
+http://www.tuicool.com/articles/MvArQvn | 有经验和没有经验的程序员的区别 - 推酷
+http://www.tuicool.com/articles/jmeiaaJ | 青云对象存储解决方案应用与实践 - 推酷
+http://neuralnetworksanddeeplearning.com/index.html | Neural networks and deep learning
+http://www.tuicool.com/articles/FJJZRzn | Quick introduction to Django Channels - 推酷
+http://www.tuicool.com/articles/3M7rE3E | 如何解决消息发送一致性 - 推酷
+http://www.tuicool.com/articles/a6NzA3U | DevOps Engineer Career Path: Your Guide To Bagging Top DevOps Jobs - 推酷
+http://www.tuicool.com/articles/bYfieu | 二维线段树 - 推酷
+
+http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction | The Wrong Abstraction — Sandi Metz
+https://news.ycombinator.com/item?id=11032296 | The Wrong Abstraction | Hacker News
+https://www.learnenough.com/git-tutorial | Learn Enough Git to Be Dangerous | Learn Enough Git to Be Dangerous | Softcover.io
+https://news.ycombinator.com/item?id=11036767 | Learn Enough Git to Be Dangerous | Hacker News
+http://benchling.engineering/performance-engineering-with-react/ | Performance Engineering with React
+https://news.ycombinator.com/item?id=11036007 | Performance Engineering with React, Part 1 | Hacker News
+http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html | Beej's Guide to Network Programming
+
+http://bayes.cs.ucla.edu/PRIMER/ | CAUSAL INFERENCE IN STATISTICS: A PRIMER, 2016
+https://news.ycombinator.com/item?id=11062084 | Causal Inference in Statistics: A Primer | Hacker News
+http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html | How to do distributed locking — Martin Kleppmann’s blog
+https://news.ycombinator.com/item?id=11059738 | How to do distributed locking | Hacker News
+https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016 | samccone/The-cost-of-transpiling-es2015-in-2016: Investigating the overhead cost of compiled es2015
+https://news.ycombinator.com/item?id=11057976 | The cost of transpiling ES2015 in 2016 | Hacker News
+https://engineering.canva.com/2015/08/25/how-we-get-things-done/ | How We Get Things Done – Engineering at Canva
+http://joeduffyblog.com/2016/02/07/the-error-model/ | Joe Duffy - The Error Model
+https://news.ycombinator.com/item?id=11054912 | The Error Model in Midori | Hacker News
+http://gitxiv.com/posts/tfkjEgw9x4KSi2GnH/long-short-term-memory-networks-for-machine-reading | Long Short-Term Memory-Networks for Machine Reading | GitXiv
+
+http://www.programmingforbeginnersbook.com/blog/friction_between_programming_professionals_and_beginners/ | Friction Between Programming Professionals and Beginners - Programming for Beginners
+https://news.ycombinator.com/item?id=11073401 | Friction Between Programming Professionals and Beginners | Hacker News
+http://www.mustafaak.in/2016/02/08/writing-my-own-init-with-go.html | Writing my own init with Go - Part 1
+https://news.ycombinator.com/item?id=11064694 | Writing my own init with Go | Hacker News
+https://deadlockempire.github.io/ | The Deadlock Empire
+https://news.ycombinator.com/item?id=11064507 | Show HN: The Deadlock Empire – Slay dragons, master concurrency | Hacker News
+http://bokeh.pydata.org/en/latest/ | Bokeh Docs
+https://news.ycombinator.com/item?id=11076390 | Bokeh – a Python interactive visualization library | Hacker News
+http://mosaicscience.com/story/medicine-without-the-medicine-how-to-train-your-immune-system-placebo | You can train your body into thinking it’s had medicine | Mosaic
+https://news.ycombinator.com/item?id=11074357 | You can train your body into thinking it’s had medicine | Hacker News
+
+http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast | Scientists have found a way to help you learn new skills twice as fast - ScienceAlert
+https://news.ycombinator.com/item?id=11064305 | Scientists have found a way to help learn skills faster | Hacker News
+http://theconversation.com/overworked-good-habits-not-holidays-are-the-answer-17744 | Overworked? Good habits, not holidays, are the answer
+https://news.ycombinator.com/item?id=11077337 | Overworked? Good habits, not holidays, are the answer | Hacker News
+https://github.com/eslint/eslint/issues/5205 | Investigate switching away from GitHub · Issue #5205 · eslint/eslint
+https://news.ycombinator.com/item?id=11085314 | Amazon Building Global Delivery Business to Take on Alibaba | Hacker News
+http://subuser.org/ | Subuser - Portability, Security, Maintainability — Subuser 0.5.3 documentation
+https://engineering.pinterest.com/blog/open-sourcing-teletraan-code-deployment-system | Open-sourcing Teletraan, a code deployment system | Pinterest Engineering
+https://github.com/akkartik/mu | akkartik/mu: Soul of a tiny new machine for learning programming one-on-one. Tests before syntax; traces over interfaces; rewrite-friendly rather than backwards-compatible.
+https://about.gitlab.com/2016/01/27/comparing-terms-gitlab-github-bitbucket/ | Comparing Confusing Terms in GitHub, Bitbucket, and GitLab | GitLab
+https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527#.ezvfloqm5 | So you want to write a package manager — Medium
+https://news.ycombinator.com/item?id=11088125 | So you want to write a package manager | Hacker News
+http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5 | Brett Cannon - How the heck does async/await work in Python 3.5?
+https://news.ycombinator.com/item?id=11100251 | Ask HN: Is Python dying? | Hacker News
+http://zhen.org/blog/two-developers-walk-into-a-bar/ | A Modern App Developer and An Old-Timer System Developer Walk Into a Bar · Zen 3.1
+https://news.ycombinator.com/item?id=11098343 | Deploy a .onion Site in Less Than 5 minutes | Hacker News
+http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to | Write code that is easy to delete, not easy to... — programming is terrible
+https://news.ycombinator.com/item?id=11093733 | Write code that is easy to delete, not easy to extend | Hacker News
+http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/ | Learn React By Itself -- no JSX, no Flux, no ES6, no Webpack.
+
+https://news.ycombinator.com/item?id=11105198 | Too many tools not enough carpenters | Hacker News
+https://github.com/joealcorn/laboratory | joealcorn/laboratory: A Python library for carefully refactoring critical paths (and a port of Github's Scientist)
+https://news.ycombinator.com/item?id=11104781 | Show HN: Laboratory, a Python port of GitHub's Scientist library for refactoring | Hacker News
+https://ckmadvisors.com/b/160212.html | CKM Advisors
+http://www.infoq.com/articles/no-more-mvc-frameworks | Why I No Longer Use MVC Frameworks
+https://news.ycombinator.com/item?id=11104356 | Why I No Longer Use MVC Frameworks | Hacker News
+http://blog.dato.com/sframe-open-source-release | SFrame Open Source Release
+http://fishshell.com/docs/current/design.html | fish: Design document
+http://svail.github.io/mandarin/ | Around the World in 60 Days: Getting Deep Speech to Work in Mandarin
+https://news.ycombinator.com/item?id=11118274 | Apache Arrow: A new open source in-memory columnar data format | Hacker News
+https://news.ycombinator.com/item?id=11117929 | Which Type of Exercise Is Best for the Brain? | Hacker News
+http://well.blogs.nytimes.com/2016/02/17/which-type-of-exercise-is-best-for-the-brain/?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below | Which Type of Exercise Is Best for the Brain? - The New York Times
+http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/ | Nick Craver - Stack Overflow: The Architecture - 2016 Edition
+https://news.ycombinator.com/item?id=11117799 | Stack Overflow: The Architecture – 2016 Edition | Hacker News
+https://blog.dcpos.ch/someone-please-make-a-decent-pc | We Need A Better PC - DC
+https://news.ycombinator.com/item?id=11114540 | We Need a Better PC | Hacker News
+
+https://cloudplatform.googleblog.com/2016/02/Google-and-Red-Hat-announce-cloud-based-scalable-file-servers.html | Google Cloud Platform Blog: Google and Red Hat announce cloud-based scalable file servers
+https://news.ycombinator.com/item?id=11125908 | Google and Red Hat announce cloud-based scalable file servers | Hacker News
+https://hynek.me/articles/python3-2016/ | Python 3 in 2016 · Homepage of Hynek Schlawack
+https://news.ycombinator.com/item?id=11124335 | Python 3 in 2016 | Hacker News
+http://mern.io/ | MERN — Easiest way to build isomorphic JavaScript apps using React and Redux.
+https://news.ycombinator.com/item?id=11124375 | Mern: Build JavaScript apps using React and Redux | Hacker News
+https://www.elastic.co/v5 | Introducing 5.0: Elastic Stack, X-Pack & Elastic Cloud | Elastic
+https://news.ycombinator.com/item?id=11122191 | The Elastic Stack: Future of ELK Platform | Hacker News
+https://etscrivner.github.io/posts/2014/10/building-large-flask-apps-in-the-real-world/ | Building Large Flask Apps In The Real World
+https://news.ycombinator.com/item?id=11121355 | Building Large Flask Apps in the Real World | Hacker News
+https://www.cockroachlabs.com/blog/living-without-atomic-clocks/ | Living Without Atomic Clocks | Blog | Cockroach Labs
+https://tech.instacart.com/data-science-at-instacart/ | Data Science at Instacart | Instacart Tech Blog
+https://news.ycombinator.com/item?id=11120487 | Data Science Challenges at Instacart | Hacker News
+http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/ | Technical interview performance is kind of arbitrary. Here’s the data. – interviewing.io blog
+https://news.ycombinator.com/item?id=11119838 | Technical interview performance is kind of arbitrary | Hacker News
+https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016 | How to Safely Store Your Users' Passwords in 2016 - Paragon Initiative Enterprises Blog
+https://news.ycombinator.com/item?id=11118720 | How to Safely Store Your Users' Passwords in 2016 | Hacker News
+
+http://well.blogs.nytimes.com/2016/02/18/contemplation-therapy/ | How Meditation Changes the Brain and Body - The New York Times
+https://news.ycombinator.com/item?id=11127516 | How Meditation Changes the Brain and Body | Hacker News
+https://github.com/timothycrosley/hug | timothycrosley/hug: Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
+https://news.ycombinator.com/item?id=11130996 | New Python REST API and CLI micro-framework | Hacker News
+https://news.ycombinator.com/item?id=11130688 | Graphing when your Facebook friends are awake | Hacker News
+https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake | literally words — Graphing when your Facebook friends are awake
+http://jeremykun.com/2013/02/08/why-there-is-no-hitchhikers-guide-to-mathematics-for-programmers/ | Why there is no Hitchhiker’s Guide to Mathematics for Programmers | Math ∩ Programming
+https://news.ycombinator.com/item?id=11129375 | Why There Is No Hitchhiker’s Guide to Mathematics for Programmers | Hacker News
+https://cloud.google.com/blog/big-data/2016/02/history-of-massive-scale-sorting-experiments-at-google | History of massive-scale sorting experiments at Google | Google Cloud Big Data Blog — Google Cloud Platform
+https://news.ycombinator.com/item?id=11129777 | History of massive-scale sorting experiments at Google | Hacker News
+http://www.3blue1brown.com/ | 3Blue1Brown
+
+http://elaineou.com/2016/02/19/how-to-use-chrome-extensions-to-bypass-paywalls/ | How Google's Web Crawler Bypasses Paywalls - Elaine's Idle Mind
+https://news.ycombinator.com/item?id=11134798 | How Google’s Web Crawler Bypasses Paywalls | Hacker News
+https://tacticalsecret.com/early-impacts-of-letsencrypt/ | Early Impacts of Let's Encrypt
+https://medium.com/learning-new-stuff/creating-a-two-sided-marketplace-in-two-days-4482dfc1ead8#.ux4k6mka8 | Lessons Learned Launching A Side Project in 48 Hours — Learning New Stuff — Medium
+https://news.ycombinator.com/item?id=11140171 | Lessons Learned Launching a Side Project in 48 Hours | Hacker News
+https://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html | New Versioning Scheme | React
+https://news.ycombinator.com/item?id=11136041 | New Versioning Scheme for React | Hacker News
+https://blog.buoyant.io/2016/02/18/linkerd-twitter-style-operability-for-microservices/ | linkerd: Twitter-style Operability for Microservices
+https://news.ycombinator.com/item?id=11144126 | Linkerd: Twitter-Style Operability for Microservices | Hacker News
+https://github.com/realpython/discover-flask | realpython/discover-flask: Full Stack Web Development with Flask.
+https://news.ycombinator.com/item?id=11143326 | Discover Flask | Hacker News
+https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.8m0j3b2u1 | Understanding git for real by exploring the .git directory — Free Code Camp — Medium
+https://news.ycombinator.com/item?id=11142625 | Understanding Git for real by exploring the .git directory | Hacker News
+https://tools.ietf.org/html/rfc6920 | RFC 6920 - Naming Things with Hashes
+https://news.ycombinator.com/item?id=11142454 | RFC 6920: Naming Things with Hashes | Hacker News
+
+https://github.com/vulpino/jolteon | vulpino/jolteon: Babel + Electron + React + Browserify + SASS application stack
+http://engineering.riotgames.com/news/fixing-internet-real-time-applications-part-ii | Fixing the Internet for Real Time Applications: Part II | Riot Games Engineering
+https://blogs.msdn.microsoft.com/pythonengineering/2016/02/12/welcome/ | Welcome to the Python Engineering blog | Python Engineering at Microsoft
+https://news.ycombinator.com/item?id=11146080 | Welcome to the Python Engineering blog | Hacker News
+https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc#.g7j0haemx | What’s Next in Computing? — Medium
+https://news.ycombinator.com/item?id=11144896 | What’s Next in Computing? | Hacker News
+http://dorinlazar.ro/why-c-sucks-2016-02-edition/ | Why C++ sucks (2016.02 edition) | dorinlazăr.ro
+https://news.ycombinator.com/item?id=11147031 | Why C++ sucks (2016 edition) | Hacker News
+https://statuscode.ch/2016/02/distribution-packages-considered-insecure/ | Distribution packages considered insecure
+https://news.ycombinator.com/item?id=11148506 | Distribution packages considered insecure | Hacker News
+http://cs109.github.io/2015/ | CS109 Data Science
+https://brianmckenna.org/blog/howtostopfp | How to stop functional programming - BAM Weblog
+https://news.ycombinator.com/item?id=11158748 | How to stop functional programming | Hacker News
+http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/ | The Seven Habits of Highly Depolarizing People - The American Interest
+http://rachelbythebay.com/w/2016/02/21/malloc/ | A mystery with memory leaks and a magic number
+
+https://sysdig.com/blog/50-shades-of-system-calls/ | Sysdig | 50 Shades of System Calls
+http://digest.bps.org.uk/2016/02/you-hear-voice-in-your-head-when-youre.html?m=1 | http://digest.bps.org.uk/2016/02/you-hear-voice-in-your-head-when-youre.html?m=1 is not available
+https://news.ycombinator.com/item?id=11162927 | You hear a voice in your head when you're reading, right? | Hacker News
+https://news.spotify.com/us/2016/02/23/announcing-spotify-infrastructures-googley-future/ | Announcing Spotify Infrastructure’s Googley Future | News
+https://news.ycombinator.com/item?id=11159840 | Spotify moves its back end to Google Cloud | Hacker News
+https://medium.com/google-developers/why-won-t-this-work-coding-angry-for-fun-and-profit-1ef38a2b7196#.tgq8yyill | WHY WON’T THIS WORK?! Coding Angry for Fun and Profit — Google Developers — Medium
+https://news.ycombinator.com/item?id=11162901 | Why Building Apps the Wrong Way Can Be the Right Way | Hacker News
+http://www.sazzy.co.uk/the-elephant-in-the-room/ | The Elephant In The RoomSarah Parmenter - User Interface Designer.Sarah Parmenter - User Interface Designer.
+https://news.ycombinator.com/item?id=11168994 | The Elephant in the Room: Web design work is drying up | Hacker News
+http://arxiv.org/abs/1602.07168 | [1602.07168] ZeroDB white paper
+http://jeremykun.com/ | Math ∩ Programming
+https://news.ycombinator.com/item?id=11166081 | Math ∩ Programming | Hacker News
+http://www.baltimoresun.com/news/opinion/bal-the-end-of-the-establishment-20160223-story.html | The end of the establishment? - Baltimore Sun
+https://news.ycombinator.com/item?id=11165933 | The end of the establishment? | Hacker News
+https://coreos.com/blog/improving-kubernetes-scheduler-performance.html | Improving Kubernetes Scheduler Performance
+
+https://reaktor.com/blog/why-csp-matters-i-keeping-things-in-sync/ | Why CSP matters I: Keeping things in sync - Reaktor
+https://news.ycombinator.com/item?id=11172727 | Voice Recognition and Text to Speech in Python | Hacker News
+http://ewanvalentine.io/why-go-solves-so-many-problems-for-web-developers/ | How Go solves so many problems for web developers
+https://news.ycombinator.com/item?id=11172284 | Why Go solves so many problems for web developers | Hacker News
+https://medium.com/@UofCalifornia/how-a-matchmaking-algorithm-saved-lives-2a65ac448698#.amihw7jpa | How a matchmaking algorithm saved lives — Medium
+https://news.ycombinator.com/item?id=11167598 | How a matchmaking algorithm saved lives | Hacker News
+http://arxiv.org/abs/1602.02697 | [1602.02697] Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples
+https://news.ycombinator.com/item?id=11158019 | Practical Attacks against Deep Learning Systems using Adversarial Examples | Hacker News
+https://news.ycombinator.com/item?id=11157829 | Ask HN: How to handle 50GB of transaction data each day? (200GB during peak) | Hacker News
+https://www.twilio.com/blog/2016/02/patrick-mckenzie-on-salary-negotiation-job-hunting.html | What Developers Should Know About Job Searching and Negotiation
+https://news.ycombinator.com/item?id=11181922 | What Developers Should Know About Job Searching and Negotiation | Hacker News
+https://news.ycombinator.com/item?id=11181158 | MicroPython, a few years on | Hacker News
+https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers/posts/1502594 | Micro Python: Python for microcontrollers by Damien George — Kickstarter
+http://code.haleby.se/2016/02/12/why-we-chose-kubernetes/ | http://code.haleby.se/2016/02/12/why-we-chose-kubernetes/ is not available
+https://news.ycombinator.com/item?id=11179146 | Why We Chose Kubernetes | Hacker News
+http://bravenewgeek.com/so-you-wanna-go-fast/ | So You Wanna Go Fast? – Brave New Geek
+https://news.ycombinator.com/item?id=11171756 | So You Wanna Go Fast? | Hacker News
+http://benchling.engineering/deep-dive-react-perf-debugging/ | A Deep Dive into React Perf Debugging
+https://labs.spotify.com/2016/02/25/spotifys-event-delivery-the-road-to-the-cloud-part-i/ | Spotify’s Event Delivery – The Road to the Cloud (Part I) | Labs
+http://117.121.137.34:62001/deployment/requisition/149/overview/ | 上线审核
+
+https://www.nonzeroday.com/philosophy | Nonzeroday - We help you turn goals into daily habits.
+https://news.ycombinator.com/item?id=11183086 | Don't let a single day pass without doing something towards your goal | Hacker News
+https://news.ycombinator.com/item?id=11183105 | Developing Our First iOS App with React Native | Hacker News
+https://news.ycombinator.com/item?id=11183348 | PostgreSQL Indexes: First principles | Hacker News
+http://nautil.us/issue/33/attraction/curiosity-depends-on-what-you-already-know | Robots and Babies Both Use Curiosity to Learn
+http://inference-review.com/article/doing-mathematics-differently | Doing Mathematics Differently | Articles | Inference: International Review of Science
+http://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred | MentalHealthError: an exception occurred. — Kenneth Reitz
+https://news.ycombinator.com/item?id=11186756 | MentalHealthError: an exception occurred | Hacker News
+https://news.ycombinator.com/item?id=11183394 | Why We Moved to React | Hacker News
+https://www.weforum.org/agenda/2015/11/how-sleep-and-mental-health-are-linked-in-the-brain/ | How sleep and mental health are linked in the brain | World Economic Forum
+http://blog.robertelder.org/interfaces-most-important-software-engineering-concept/ | Interfaces - The Most Important Software Engineering Concept
+https://news.ycombinator.com/item?id=11180030 | Interfaces – The Most Important Software Engineering Concept | Hacker News
+
 https://bar.foo/ | Do cool things that matter - bar.foo - Google
 https://news.ycombinator.com/item?id=11195406 | bar.foo | Hacker News
 http://arstechnica.com/gaming/2016/02/you-wouldnt-be-able-to-pause-your-video-games-today-without-jerry-lawson/ | You wouldn’t be able to pause your video games today without Jerry Lawson | Ars Technica
