@@ -1,3 +1,72 @@
+http://dockone.io/article/1131 | Kubernetes是什么？ - DockOne.io
+http://blog.acolyer.org/2016/03/18/distributed-tensorflow-with-mpi/ | Distributed TensorFlow with MPI | the morning paper
+http://www.tuicool.com/articles/iy2IbyJ | 基于Scrapy的Reddit爬取与分析 - 推酷
+https://edgecoders.com/graphql-deep-dive-the-cost-of-flexibility-ee50f131a83d#.mppw0wlde | GraphQL Deep Dive: The Cost of Flexibility — Edge Coders — Medium
+https://code.facebook.com/posts/554841958030835/facebook-boston-tech-talk-graphql/ | Facebook Boston tech talk: GraphQL | Engineering Blog | Facebook Code
+http://www.infoq.com/news/2016/03/chaos-testing-microservices | Chaos Testing of Microservices
+http://blog.fmpwizard.com/blog/go_making_a_program_70_faster_by_avoiding_common_mistakes | Go - Making a program 70% faster, by avoiding common mistakes
+http://www.tuicool.com/articles/vIFfMbU | Give Spark a 45x speed boost with Redis - 推酷
+http://searchengineland.com/real-time-search-algorithm-may-bad-244515 | Why real-time search algorithm updates may be bad news
+http://www.tuicool.com/articles/aQZZbei | OpenStack, Docker, Kubernetes Feature in Free Online Training Class - 推酷
+http://www.tuicool.com/articles/uAnMF3 | Managing heterogeneous environments with ManageIQ - 推酷
+http://www.tuicool.com/articles/EZneeei | Type-Safe Flux Architecture Using TypeScript - 推酷
+
+http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/ | Introduction to Scikit Flow - Yuan's Blog
+http://www.linuxuser.co.uk/tutorials/make-a-visual-novel-with-python?utm_source=tuicool&utm_medium=referral | http://www.linuxuser.co.uk/tutorials/make-a-visual-novel-with-python?utm_source=tuicool&utm_medium=referral is not available
+https://github.com/ruby-concurrency/concurrent-ruby | ruby-concurrency/concurrent-ruby: Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+http://www.tuicool.com/articles/mi6BRne | The Brick Factory Problem - 推酷
+http://googleresearch.blogspot.jp/2016/03/train-your-own-image-classifier-with.html | Research Blog: Train your own image classifier with Inception in TensorFlow
+http://www.tuicool.com/articles/IBvAjur | StackOverflow 这么大，它的架构是怎么样的？ - 推酷
+http://masnun.com/2016/03/09/auto-update-for-your-frozen-python-applications-using-esky.html | Auto Update for your Frozen Python Applications using Esky | Abu Ashraf Masnun
+http://techblog.netflix.com/2016/03/how-we-build-code-at-netflix.html | The Netflix Tech Blog: How We Build Code at Netflix
+http://developers.redhat.com/blog/2016/03/09/more-about-docker-images-size/ | Keep it small: a closer look at Docker image sizing – Red Hat Developer Blog
+https://aws.amazon.com/cn/blogs/aws/flatiron-health-using-aws-to-help-improve-cancer-treatment/ | Flatiron Health – Using AWS to Help Improve Cancer Treatment | AWS Official Blog
+http://www.tuicool.com/articles/auyQ3af | Distributed systems in an alternative universe - 推酷
+https://github.com/timothycrosley/hug | timothycrosley/hug: Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
+
+http://www.tuicool.com/articles/Yv2AJj2 | 美团云分布式块存储系统Ursa的设计与实现 - 推酷
+http://www.tuicool.com/articles/FruAr2Y | Get started with deep learning using Jupyter notebooks on AWS (for beginners) - 推酷
+http://www.tuicool.com/articles/ma6ziiB | Strategic Dialogue Management via Deep Reinforcement Learning - 推酷
+http://www.tuicool.com/articles/bmiiEv | Docker Swarm打败Kubernetes了？还不够 - 推酷
+http://www.tuicool.com/articles/bMbia2v | Using Markov Chains to Build Automatic Donald Trump - 推酷
+http://www.tuicool.com/articles/aq63eie | 在 Docker 上运行 Java 程序？你已经触犯法律！ - 推酷
+http://www.tuicool.com/articles/EbmEvyR | 主机被入侵分析过程报告 - 推酷
+http://www.tuicool.com/articles/UvuIjiR | 探索 .git 目录，让你真正了理解git - 推酷
+http://www.tuicool.com/articles/mM3i2eq | VDC：下一代互联网运维平台 - 推酷
+http://www.tuicool.com/articles/6zU3Qvy | Continuous Delivery for (Smart) Trucks - 推酷
+http://www.tuicool.com/articles/3eARvqy | 21 hot programming trends -- and 21 going cold - 推酷
+http://www.tuicool.com/articles/V7jQbmU | [译] Python 3.5 协程究竟是个啥 - 推酷
+http://www.tuicool.com/articles/RfeAz26 | 如何让 Python 像 Julia 一样快地运行 - 推酷
+http://www.tuicool.com/articles/yA7BfyF | 浏览器与服务器的消息通信 - 推酷
+http://www.tuicool.com/articles/EVRV7zN | Microsoft Cloud Design Patterns - 推酷
+http://www.tuicool.com/articles/ZNV7vab | 理解threadlocal - 推酷
+http://www.tuicool.com/articles/YriEJf | FB倡导“开放计算项目”迎来强援 谷歌宣布加盟 - 推酷
+http://www.tuicool.com/articles/Nvm22u3 | WOT2016彭哲夫：科班出身开发者对运维人员的期许 - 推酷
+https://academy.datastax.com/demos/getting-started-graph-databases | Getting Started with Graph Databases | DataStax Academy: Free Cassandra Tutorials and Training
+http://www.tuicool.com/articles/r2QVjaz | ES6 is beautiful - 推酷
+http://www.tuicool.com/articles/2AfqeqJ | Graph Databases 101 - 推酷
+http://www.tuicool.com/articles/VZRbEj | Unleashing an Ultimate XSS Polyglot - 推酷
+http://www.tuicool.com/articles/EJF7bez | 深入理解 GraphQL - 推酷
+http://www.tuicool.com/articles/yyQfIbA | 如何用神经网络来恢复破损的密码？ - 推酷
+
+http://www.tuicool.com/articles/QJj22mN | gRPC sample in C++ and Python - 推酷
+https://github.com/mrsmn/hazelnut | mrsmn/hazelnut: A pythonic library to parse /proc/meminfo
+http://www.tuicool.com/articles/FNJvAnb | 机器学习算法-Adaboost - 推酷
+http://www.tuicool.com/articles/rIn6Vfr | Breaking homegrown crypto - 推酷
+http://www.tuicool.com/articles/JjIFv23 | State of the art JavaScript in 2016 - 推酷
+http://www.tuicool.com/articles/AnmqErR | 大白话讲解Promise（一） - 推酷
+http://www.tuicool.com/articles/qiURjqr | 通过Loader延长Presenter生命周期 - 推酷
+http://www.tuicool.com/articles/RRveMf2 | 趣文：课堂上传纸条如何防范中间人攻击？ - 推酷
+http://www.tuicool.com/articles/f67Zru | Managing Frontend in the Microservices Architecture - 推酷
+http://www.tuicool.com/articles/eIrYr2 | SimpleSQLite – Python library to simplify the SQlite database creation - 推酷
+http://www.tuicool.com/articles/emQNFnm | Databricks Integrates Spark and TensorFlow for Deep Learning - 推酷
+http://www.tuicool.com/articles/m2ArYn7 | 使用Python开发iOS程序 - 推酷
+http://www.tuicool.com/articles/JneQ32z | Docker compose wrapper - 推酷
+http://www.tuicool.com/articles/iYRjYrj | StatsD, Dataloop and Grafana - 推酷
+http://www.tuicool.com/articles/YvIRBnR | 如果你每天都不开心，那可能是因为生活中的「大数据」太多 - 推酷
+http://www.tuicool.com/articles/Bfe6Fzu | Golang code tips and trics - 推酷
+http://www.tuicool.com/articles/BjeIJzE | 缓存系列文章–无底洞问题 - 推酷
+
 https://github.com/adamwalz/mlclass_ipython | adamwalz/mlclass_ipython: Coursera Machine Learning Exercises in IPython Notebooks
 https://github.com/jdwittenauer/ipython-notebooks | jdwittenauer/ipython-notebooks: A collection of IPython notebooks covering various topics.
 http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb | Jupyter Notebook Viewer
@@ -116,9 +185,6 @@ https://news.ycombinator.com/item?id=11119838 | Technical interview performance 
 https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016 | How to Safely Store Your Users' Passwords in 2016 - Paragon Initiative Enterprises Blog
 https://news.ycombinator.com/item?id=11118720 | How to Safely Store Your Users' Passwords in 2016 | Hacker News
 
-http://well.blogs.nytimes.com/2016/02/18/contemplation-therapy/ | How Meditation Changes the Brain and Body - The New York Times
-https://news.ycombinator.com/item?id=11127516 | How Meditation Changes the Brain and Body | Hacker News
-https://github.com/timothycrosley/hug | timothycrosley/hug: Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 https://news.ycombinator.com/item?id=11130996 | New Python REST API and CLI micro-framework | Hacker News
 https://news.ycombinator.com/item?id=11130688 | Graphing when your Facebook friends are awake | Hacker News
 https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake | literally words — Graphing when your Facebook friends are awake
