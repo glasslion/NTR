@@ -1,3 +1,854 @@
+http://ithare.com/udp-for-games-security-encryption-and-ddos-protection/ | UDP for games – security (encryption and DDoS protection) - IT Hare on Soft.ware
+https://news.ycombinator.com/item?id=11584726 | UDP for games – encryption and DDoS protection | Hacker News
+https://gym.openai.com/ | OpenAI Gym
+https://news.ycombinator.com/item?id=11582345 | OpenAI Gym: Toolkit for developing, comparing reinforcement learning algorithms | Hacker News
+https://news.ycombinator.com/item?id=11582441 | Announcing Vue.js 2.0 | Hacker News
+
+https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da | You (probably) don't need a JavaScript framework | Slack
+https://journal.paul.querna.org/articles/2014/04/27/rackspce-interview-process/ | Rackspace Interview Process
+https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/ | Markov Chain Monte Carlo sampling – Alexander Galea's Blog
+http://larshagencpp.github.io/blog/2016/05/01/a-cache-miss-is-not-a-cache-miss | A cache miss is not a cache miss
+https://news.ycombinator.com/item?id=11606136 | A cache miss is not a cache miss | Hacker News
+http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/ | Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification
+http://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/ | Do Experienced Programmers Use Google Frequently? · Code Ahoy
+https://github.com/steshaw/plt | steshaw/plt: A path to Programming Language Theory enlightenment
+https://peter.bourgon.org/go-best-practices-2016/ | Go best practices, six years in
+https://news.ycombinator.com/item?id=11606728 | Go best practices, six years in | Hacker News
+http://blog.fastforwardlabs.com/post/143792498983/probabilistic-programming-for-anomaly-detection | Fast Forward Labs: Probabilistic Programming for Anomaly Detection
+https://news.ycombinator.com/item?id=11621262 | Probabilistic Programming for Anomaly Detection | Hacker News
+http://geekforbrains.com/post/after-a-year-of-nodejs-in-production | After a year of using NodeJS in production | Geek for Brains
+https://news.ycombinator.com/item?id=11615526 | After a year of using Node.js in production | Hacker News
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45287.pdf | 45287.pdf
+https://news.ycombinator.com/item?id=11613845 | Google XRay: A Function Call Tracing System [pdf] | Hacker News
+http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb | Jupyter Notebook Viewer
+
+https://news.ycombinator.com/item?id=11625585 | Uvloop: Fast Python networking | Hacker News
+http://magic.io/blog/uvloop-blazing-fast-python-networking/ | uvloop: Blazing fast Python networking — magicstack
+https://medium.com/swlh/improving-angular-performance-with-1-line-of-code-a1fb814a6476#.pf99p987m | Improving Angular performance with 1 line of code — The Startup — Medium
+http://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/ | Nick Craver - Stack Overflow: How We Do Deployment - 2016 Edition
+https://news.ycombinator.com/item?id=11620890 | Stack Overflow: How We Do Deployment | Hacker News
+https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/ | Serializable, Lockless, Distributed: Isolation in CockroachDB | Blog | Cockroach Labs
+https://news.ycombinator.com/item?id=11630674 | Serializable, Lockless, Distributed: Isolation in CockroachDB | Hacker News
+http://www.posteriorscience.net/?p=206 | Programming by poking: why MIT stopped teaching SICP | posterior science
+https://news.ycombinator.com/item?id=11628080 | Programming by poking: why MIT stopped teaching SICP | Hacker News
+https://blog.cloudflare.com/the-curious-case-of-slow-downloads/ | The curious case of slow downloads
+https://news.ycombinator.com/item?id=11627524 | The curious case of slow downloads | Hacker News
+http://dpkingma.com/?page_id=483 | Video Recordings of the ICML’15 Deep Learning Workshop | Durk Kingma
+https://news.ycombinator.com/item?id=11649999 | Real World Microservices: When Services Stop Playing Well and Start Getting Real | Hacker News
+http://www.tuicool.com/articles/2uENJzr | 基于内容推荐的个性化新闻阅读实现 - 推酷
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?lang=en | A Visual Introduction to Machine Learning
+http://www.tuicool.com/sites/JzYZ3e | IBM developerWorks中国 - 推酷
+http://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/ | Use Keras Deep Learning Models with Scikit-Learn in Python - Machine Learning Mastery
+https://github.com/karandesai-96/digit-classifier | karandesai-96/digit-classifier: A single handwritten digit classifier, using the MNIST dataset. Implemented through Artificial Neural Networks in python.
+
+http://horstmann.com/unblog/2016-05-06/index.html | Cay Horstmann's Unblog
+https://sanctum.geek.nz/arabesque/cron-best-practices/ | Cron best practices | Arabesque
+https://news.ycombinator.com/item?id=11653166 | Cron best practices | Hacker News
+https://github.com/amznlabs/amazon-dsstne | amznlabs/amazon-dsstne: Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+https://news.ycombinator.com/item?id=11671787 | Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine | Hacker News
+http://basho.com/posts/technical/time-series-the-new-shiny/ | Time Series, the new shiny? – Basho
+https://news.ycombinator.com/item?id=11665907 | Time Series, the new shiny? | Hacker News
+https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/ | Introducing FBLearner Flow: Facebook's AI backbone | Engineering Blog | Facebook Code
+https://news.ycombinator.com/item?id=11661860 | Introducing FBLearner Flow: Facebook's AI Backbone | Hacker News
+http://tomrothe.de/posts/sketchbook.html | tomrothe.de - Creativity is a great motivator
+https://news.ycombinator.com/item?id=11662686 | Self-host analytics for better privacy and accuracy | Hacker News
+http://priceonomics.com/the-independent-discovery-of-tcpip-by-ants/ | The Independent Discovery of TCP/IP, By Ants
+https://news.ycombinator.com/item?id=11657411 | The Independent Discovery of TCP/IP, by Ants | Hacker News
+https://matthewearl.github.io/2016/05/06/cnn-anpr/ | Number plate recognition with Tensorflow - Matt's ramblings
+https://daniel.haxx.se/blog/2016/05/11/my-url-isnt-your-url/ | My URL isn’t your URL | daniel.haxx.se
+https://www.quantamagazine.org/20160428-entanglement-made-simple/ | Entanglement Made Simple | Quanta Magazine
+https://bitsup.blogspot.com/2016/05/cache-control-immutable.html | Bits Up!: Cache-Control: immutable
+https://databricks.com/blog/2016/05/11/apache-spark-2-0-technical-preview-easier-faster-and-smarter.html | Technical Preview of Apache Spark 2.0 Now on Databricks | Databricks Blog
+
+https://nikolamotor.com/ | Nikola Motor Company | Premium Electric Vehicles
+https://news.ycombinator.com/item?id=11686325 | Final “STEPS Toward the Reinvention of Programming” Paper [pdf] | Hacker News
+https://github.com/jtoy/awesome-tensorflow/ | jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources http://tensorflow.org
+http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html?m=1 | Research Blog: Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source
+https://news.ycombinator.com/item?id=11686029 | Announcing SyntaxNet: The World’s Most Accurate Natural Language Parser | Hacker News
+https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292#.k5im1xqkr | What we learned from Google: code reviews aren’t just for catching bugs — FullStory HQ
+https://news.ycombinator.com/item?id=11685578 | Code reviews aren’t just for catching bugs | Hacker News
+http://thewirecutter.com/2016/05/lets-talk-about-amazon-reviews/ | Let’s Talk About Amazon Reviews: How We Spot the Fakes | The Wirecutter
+https://news.ycombinator.com/item?id=11691962 | Amazon Reviews: How We Spot the Fakes | Hacker News
+https://a-nickels-worth.blogspot.com/2016/04/a-guide-to-naming-variables.html | A Nickel's Worth: A Guide to Naming Variables
+https://news.ycombinator.com/item?id=11690486 | A Guide to Naming Variables | Hacker News
+https://spacy.io/blog/syntaxnet-in-context | SyntaxNet in context: Understanding Google's new TensorFlow NLP model | Blog | spaCy
+http://www.ribbonfarm.com/2016/05/12/artem-vs-predator/ | Artem vs. Predator
+https://news.ycombinator.com/item?id=11686049 | Artem vs. Predator | Hacker News
+http://carlburton.tumblr.com/
+http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/ | Distributed systems theory for the distributed systems engineer : Paper Trail
+https://news.ycombinator.com/item?id=11688124 | Distributed systems theory for the distributed systems engineer | Hacker News
+http://thebaffler.com/salvos/all-linkedin-with-nowhere-to-go | All LinkedIn with Nowhere to Go - The Baffler
+https://news.ycombinator.com/item?id=11693695 | All LinkedIn with Nowhere to Go | Hacker News
+
+https://www.zerotier.com/ | ZeroTier | Software Defined Networking
+https://news.ycombinator.com/item?id=11699122 | ZeroTier - Simple Software Defined Networking | Hacker News
+https://thngs.co/ | Thngs — a place for every thing.
+https://news.ycombinator.com/item?id=11698696 | Beijing is Silicon Valley's only true competitor | Hacker News
+http://howtocenterincss.com/# | How to Center in CSS
+https://news.ycombinator.com/item?id=11697621 | How to Center in CSS | Hacker News
+https://news.ycombinator.com/item?id=11704647 | Powering the Python Package Index | Hacker News
+https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/ | https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/ is not available
+https://news.ycombinator.com/item?id=11702705 | Enabling HTTP/2 for Dropbox web services: experiences and observations | Hacker News
+https://news.ycombinator.com/item?id=11701020 | All of Statistics, by Larry Wassserman (2013) [pdf] | Hacker News
+https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1#.oc560n2hc | Regular expressions you can read: A new visual syntax (and UI) — Medium
+http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx | Am I really a developer or just a good googler? - Scott Hanselman
+https://news.ycombinator.com/item?id=11700640 | Am I really a developer or just a good Googler? | Hacker News
+http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/ | The Sigmoid Function in Logistic Regression | iPython Notebooks
+https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/ | Singular Value Decomposition Part 2: Theorem, Proof, Algorithm | Math ∩ Programming
+https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7#.15yq6kd3d | Ruby has been fast enough for 13 years — Signal v. Noise
+https://news.ycombinator.com/item?id=11707973 | Ruby has been fast enough for 13 years | Hacker News
+http://ifeanyi.co/posts/understanding-consensus/ | Understanding Consensus and Paxos in Distributed Systems – Chord Simple
+https://news.ycombinator.com/item?id=11716547 | Understanding consensus and Paxos in distributed systems | Hacker News
+https://news.ycombinator.com/item?id=11712197 | Face recognition app taking Russia by storm may bring end to public anonymity | Hacker News
+https://news.ycombinator.com/item?id=11729043 | Software Design Patterns Are Not Goals, They Are Tools | Hacker News
+https://www.exceptionnotfound.net/software-design-patterns-are-not-goals-they-are-tools/ | Software Design Patterns Are Not Goals, They Are Tools
+https://www.gatesnotes.com/Books/The-Vital-Question | This Biology Book Blew Me Away | Bill Gates
+http://www.tuicool.com/articles/fUR3aum | Spot-Check Regression Machine Learning Algorithms in Python with scikit-learn - 推酷
+http://www.tuicool.com/articles/Vjyeeej | React的一些概念 - 推酷
+
+http://www.tuicool.com/articles/JzmEV3B | How data virtualization delivers on the DevOps promise - 推酷
+http://www.tuicool.com/articles/6zyqymv | Go语言实践：从新手入门到上线真实的小型服务所遇到的那些坑 - 推酷
+
+http://www.tuicool.com/articles/UneUnuZ | 用最少的机器支撑万亿级访问，微博6年Redis优化历程 - 推酷
+http://www.tuicool.com/articles/Az6B7fn | Metrics To Evaluate Machine Learning Algorithms in Python - 推酷
+http://www.tuicool.com/articles/IjMfAr6 | 从行为区分微服务 - 推酷
+http://www.tuicool.com/articles/uAvyMn | Python 开发者在迁移到 Go(lang) 时需要知道哪些事？ - 推酷
+http://www.tuicool.com/articles/UfuYJjq | Redux在达达 - 推酷
+http://www.tuicool.com/articles/bI7rEfZ | 聊一聊随机数安全 - 推酷
+
+http://www.tuicool.com/articles/qUN7FjA | 开源选型中的基因论 - 推酷
+http://www.tuicool.com/articles/2qANvmj | 剖析Disruptor为什么会这么快(2)：神奇的缓存行填充 - 推酷
+http://www.tuicool.com/articles/jQZVBn2 | Pretty Formatting JSON in the Django Admin - 推酷
+http://www.tuicool.com/articles/fMfyiuQ | Spot-Check Classification Machine Learning Algorithms in Python with scikit-learn - 推酷
+http://www.tuicool.com/articles/bErARna | Scalable Microservices through Messaging - 推酷
+http://www.tuicool.com/articles/iUnMriu | Write Professional Unit Tests in Python - 推酷
+http://www.tuicool.com/articles/ANRR7bB | 阿里巴巴分布式消息框架演进之路 - 推酷
+http://www.tuicool.com/articles/JFJv2iA | 迪士尼乐园里有挺多高科技，但他们不太想让你知道 - 推酷
+http://www.tuicool.com/articles/eyqE7fB | MVVM 不是那么好 - 推酷
+http://www.tuicool.com/articles/fYzmM3J | A Minus Operator For PostgreSQL's JSONB - 推酷
+http://www.tuicool.com/articles/Nz6nyqU | 一个适合小公司用的开源数据管道工具 - 推酷
+http://www.tuicool.com/articles/rQFBVv6 | 小窥TeslaCrypt密钥设计 - 推酷
+
+http://molily.de/mobile-web-performance/ | Our best practices are killing mobile web performance · molily
+https://news.ycombinator.com/item?id=11728481 | Our best practices are killing mobile web performance | Hacker News
+https://blog.intercom.io/principles-bot-design/ | Principles of bot design - Inside Intercom
+http://www.stephendiehl.com/posts/abstraction.html?HN_20160519 | Functional Programming, Abstraction, and Names
+https://news.ycombinator.com/item?id=11729270 | Functional Programming, Abstraction, and Names | Hacker News
+https://asmeurer.github.io/blog/posts/moving-away-from-python-2/ | Moving Away from Python 2 | Aaron Meurer's Blog
+https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3 | https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3 is not available
+https://news.ycombinator.com/item?id=11737232 | How Technology Hijacks People’s Minds | Hacker News
+https://www.tbray.org/ongoing/When/201x/2016/04/30/JSON-Schema-funnies | ongoing by Tim Bray · Specifying JSON
+https://news.ycombinator.com/item?id=11729208 | Specifying JSON | Hacker News
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.signalvnoise.com%2Feat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5 | https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.signalvnoise.com%2Feat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5 is not available
+http://blog.appliedcompscilab.com/monotonic_versioning_manifesto/ | Monotonic Versioning Manifesto 1.2
+https://news.ycombinator.com/item?id=11747036 | Monotonic Versioning Manifesto | Hacker News
+https://blog.bracelab.com/achieving-perfect-ssl-labs-score-with-go | Achieving a Perfect SSL Labs Score with Go
+
+chrome-extension://eggkanocgddhmamlbiijnphhppkpkmkl/activesessionview.html?type=main&focusNodeId=13315&altFocusNodeId=7022&scrollToViewWinId=7022 | Tabs Outliner
+
+https://ticktick.com/#p/56c764efe4b06711fea7b073/tasks | Django Qiniu Storage - TickTick
+https://pomotodo.com/app/ | 15:52 - 番茄土豆
+https://stackedit.io/editor | StackEdit – Editor
+
+https://maxiang.io/ | PyCon Australia 2015 Notes - 马克飞象 - 专为印象笔记打造的Markdown编辑器
+http://www.slideshare.net/fphhotchips/a-quick-review-of-python-and-graph-databases | A quick review of Python and Graph Databases
+http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/ | Flexible runtime interface to shared libraries with libffi - Eli Bendersky's website
+https://blog.ionelmc.ro/presentations/packaging/#slide:28 | Versioning
+https://cryptography.io/en/latest/hazmat/primitives/mac/ | Message authentication codes — Cryptography 1.4dev1 documentation
+https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/ | Key derivation functions — Cryptography 1.4dev1 documentation
+https://blog.helong.info/blog/2015/04/12/translate-Everything-you-need-to-know-about-cryptgraphy-in-1-hour/ | 【翻译】密码学一小时必知 - Tech Ideas
+
+http://zef.me/blog/6023/who-needs-git-when-you-got-zfs | Who Needs Git When You Got ZFS? — Zef.me
+https://www.imperialviolet.org/2016/05/16/agility.html | ImperialViolet - Cryptographic Agility
+https://engineering.footballradar.com/from-a-react-point-of-vue-comparing-reactjs-to-vuejs-for-dynamic-tabular-data/ | Comparing React.js to Vue.js for dynamic tabular data
+https://news.ycombinator.com/item?id=11760627 | Comparing React to Vue for dynamic tabular data | Hacker News
+http://blog.wix.engineering/2015/12/10/scaling-to-100m-mysql-is-a-better-nosql/ | Scaling to 100M: MySQL is a Better NoSQL | Wix Engineering
+https://news.ycombinator.com/item?id=11763287 | Scaling to 100M: MySQL Is a Better NoSQL | Hacker News
+http://tech.adroll.com/blog/data/2016/05/24/traildb-open-sourced.html | Announcing TrailDB - An Efficient Library for Storing and Processing Event Data — AdRoll
+https://news.ycombinator.com/item?id=11762801 | TrailDB – An Efficient Library for Storing and Processing Event Data | Hacker News
+http://antirez.com/news/107 | Programmers are not different, they need simple UIs. - <antirez>
+https://news.ycombinator.com/item?id=11762183 | Programmers are not different, they need simple UIs | Hacker News
+http://lemire.me/blog/2016/05/23/the-surprising-cleverness-of-modern-compilers/ | http://lemire.me/blog/2016/05/23/the-surprising-cleverness-of-modern-compilers/ is not available
+https://news.ycombinator.com/item?id=11760293 | The surprising cleverness of modern compilers | Hacker News
+https://medium.com/@AroundTheBlock_/a-current-list-of-use-cases-for-ethereum-b8caa5807553#.cr70q67b2 | https://medium.com/@AroundTheBlock_/a-current-list-of-use-cases-for-ethereum-b8caa5807553#.cr70q67b2 is not available
+http://www.bbc.co.uk/news/resources/idt-0192822d-14f1-432b-bd25-92eab6466362 | BBC News - China’s Science Revolution
+https://news.ycombinator.com/item?id=11752387 | China's Science Revolution | Hacker News
+https://github.com/marmelab/universal.css | marmelab/universal.css: The only CSS you will ever need
+https://news.ycombinator.com/item?id=11752740 | Universal.css | Hacker News
+http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html | solnic.eu - My time with Rails is up
+https://news.ycombinator.com/item?id=11749203 | My time with Rails is up | Hacker News
+https://news.ycombinator.com/item?id=11749010 | ZFS, BTRFS, XFS, EXT4 and LVM with KVM – A Storage Performance Comparison (2015) | Hacker News
+
+http://jlongster.com/Implementing-Stepping-Debugger-JavaScript | Implementing a Stepping Debugger in JavaScript
+https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/ | Fullstack React 🐬: React Tutorial: Cloning Yelp
+https://news.ycombinator.com/item?id=11778663 | React Tutorial: Cloning Yelp | Hacker News
+https://www.atlassian.com/git/tutorials/comparing-workflows/ | Git Workflows and Tutorials | Atlassian Git Tutorial
+https://news.ycombinator.com/item?id=11777472 | Comparing Git Workflows | Hacker News
+https://www.redhat.com/en/about/press-releases/red-hat-debuts-ansible-21-network-automation-containers-microsoft-windows-and-azure | Red Hat Debuts Ansible 2.1, with Network Automation, Containers, Microsoft Windows, and Azure | Red Hat
+https://news.ycombinator.com/item?id=11776105 | Ansible 2.1 Released, with Network Automation, Containers | Hacker News
+http://the-paper-trail.org/blog/make-any-algorithm-lock-free-with-this-one-crazy-trick/ | Make any algorithm lock-free with this one crazy trick : Paper Trail
+https://news.ycombinator.com/item?id=11776416 | Making algorithms lock-free with Read-Copy Update (RCU) | Hacker News
+http://www.bfilipek.com/2016/05/coding-without-google.html | http://www.bfilipek.com/2016/05/coding-without-google.html is not available
+https://news.ycombinator.com/item?id=11775900 | Coding without Google | Hacker News
+https://thesquareplanet.com/blog/the-path-to-rust/? | The Path to Rust :: Jon Gjengset
+http://pub.gajendra.net/2016/05/plan9part1 | Plan 9: Part 1
+https://news.ycombinator.com/item?id=11772618 | Apple Not Able to Open Stores in India Without Selling 30% Locally Sourced Goods | Hacker News
+https://github.com/decosoftware/deco-ide | decosoftware/deco-ide: The React Native IDE
+https://news.ycombinator.com/item?id=11771697 | Deco IDE for React Native: Now Free and Open Source | Hacker News
+http://techblog.netflix.com/2016/05/application-data-caching-using-ssds.html | The Netflix Tech Blog: Application data caching using SSDs
+https://news.ycombinator.com/item?id=11770985 | Application data caching using SSDs | Hacker News
+https://blog.twitter.com/2016/open-sourcing-twitter-heron | Open Sourcing Twitter Heron | Twitter Blogs
+https://news.ycombinator.com/item?id=11770758 | Open-Sourcing Twitter Heron | Hacker News
+
+http://everythingsysadmin.com/2016/05/augeas-1-5.html | Augeas: Updating of config files without ruining comments and formatting. - Tom Limoncelli's EverythingSysadmin Blog
+https://github.com/matthewearl/deep-anpr | matthewearl/deep-anpr: Using neural networks to build an automatic number plate recognition system
+https://github.com/dabeaz/curio#news | dabeaz/curio: Curio - The coroutine concurrency library.
+http://www.dataschool.io/easier-data-analysis-with-pandas/ | Video series: Easier data analysis in Python using the pandas library
+http://geoffboeing.com/2016/05/analyzing-lastfm-history/ | Analyzing Last.fm Listening History - Geoff Boeing
+http://matthewearl.github.io/2016/05/06/cnn-anpr/ | Number plate recognition with Tensorflow - Matt's ramblings
+https://www.fastly.com/blog/building-and-scaling-fastly-network-part-1-fighting-fib | Building and scaling the Fastly network, part 1: Fighting the FIB | Fastly
+https://github.com/GovernmentCommunicationsHeadquarters/BoilingFrogs | GovernmentCommunicationsHeadquarters/BoilingFrogs: GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
+http://postgres-data-types.pvh.ca/#15 | postgres-data-types.pvh.ca/#15
+http://blog.daocloud.io/microservices-4/ | 「Chris Richardson 微服务系列」服务发现的可行方案以及实践案例 | DaoCloud
+https://github.com/mirri66/xgbmagic | mirri66/xgbmagic
+
+https://blog.chaps.io/2016/05/18/creating-activity-feeds-in-postgresql.html | Creating activity feeds in PostgreSQL 9.5 – Chaps
+http://www.tuicool.com/articles/2MZJZjA | Google深度学习笔记 Stochastic Optimization - 推酷
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/ | Python Programming Tutorials
+https://www.peterbe.com/plog/deco | Decorated Concurrency - Python multiprocessing made really really easy - Peterbe.com
+https://github.com/saiprashanths/dl-setup | saiprashanths/dl-setup: Instructions for setting up the software on your deep learning machine
+http://blog.keras.io/building-autoencoders-in-keras.html | Building Autoencoders in Keras
+http://blog.yhat.com/posts/hockey-shot-blocking.html | ŷhat | Shot Blocking in the NHL Playoffs
+
+https://github.com/ujjwalkarn/DataSciencePython | ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python
+https://github.com/aimacode/aima-python | aimacode/aima-python: Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+https://www.reddit.com/r/Python/comments/4k2aww/do_any_of_you_have_projects_with_numpy_scipy_or/ | Do any of you have projects with Numpy, Scipy or pandas that you want to show off? Looking for ideas.：Python
+https://github.com/igordejanovic/textX | igordejanovic/textX: Domain-Specific Languages in Python made easy
+http://igordejanovic.net/textX/#feature-highlights | textX
+http://rhelblog.redhat.com/2016/05/18/architecting-containers-part-5-building-a-secure-and-manageable-container-software-supply-chain/ | Architecting Containers Part 5: Building a Secure and Manageable Container Software Supply Chain – Red Hat Enterprise Linux Blog
+
+http://www.tuicool.com/articles/Zf6f63M | Docker提高容器的安全和管理 - 推酷
+http://www.tuicool.com/articles/n2eYF37 | 小米数据工场的技术架构和小团队如何玩转大数据 - 推酷
+http://www.tuicool.com/articles/EZjmemu | 你真的理解Python中MRO算法吗？ - 推酷
+http://www.tuicool.com/articles/yemiQnF | 为什么Redis内存不宜过大 - 推酷
+http://www.tuicool.com/articles/B3EBzqU | Supergiant.io —— 服务于有状态应用的容器平台 - 推酷
+http://www.tuicool.com/articles/QNVZ7rJ | Evaluate the Performance of Machine Learning Algorithms in Python using Resampling - 推酷
+http://www.tuicool.com/articles/FJjumiV | RPC 的概念模型与实现解析 - 推酷
+http://www.tuicool.com/articles/iq67NbF | ZFS, BTRFS, XFS, EXT4 and LVM with KVM – A Storage Performance Comparison (2015) - 推酷
+http://www.tuicool.com/articles/a2Yj2eI | DevOps Lessons Learned at Microsoft Engineering - 推酷
+http://www.tuicool.com/articles/3eiM7zZ | 答案推荐模块项目小结 - 推酷
+http://www.tuicool.com/articles/EZvANnR | 数据密集型系统架构设计 - 推酷
+http://www.tuicool.com/articles/ZVFR7j | 开始接触管理后，我犯下的错误 - 推酷
+http://www.tuicool.com/articles/eM3Ijm2 | Visual contrast of two robust regression methods - 推酷
+http://www.tuicool.com/articles/mAbUzmQ | [工具资源] 全栈增长工程师实战 - 推酷
+http://www.tuicool.com/articles/QzIr6bm | Presentation: Staying in Sync: From Transactions to Streams - 推酷
+http://www.tuicool.com/articles/63umqyQ | 如何自己搭建钓鱼网站检测系统 - 推酷
+http://www.tuicool.com/articles/Q7Fnau | Open source realtime IoT platform - 推酷
+http://www.tuicool.com/articles/e2Y7ryF | Google深度学习笔记 从线性分类器到深度神经网络 - 推酷
+http://www.tuicool.com/articles/UrEVb2 | Dapper、Entity Framework 和混合应用 - 推酷
+http://www.tuicool.com/articles/Vfqqayq | 看程序员是如何把自动化做到极致的！ - 推酷
+http://www.tuicool.com/articles/iMnIv2z | Linux堆内存管理深入分析（下） - 推酷
+http://www.tuicool.com/articles/IJvqM3r | Distributed Tracing for Polyglot Microservices - 推酷
+
+http://machinelearningmastery.com/introduction-python-deep-learning-library-keras/ | Introduction to Python Deep Learning with Keras - Machine Learning Mastery
+https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb | Tensorflow wins — Medium
+http://blog.daocloud.io/microservices-3/ | 「Chris Richardson 微服务系列」微服务架构中的进程间通信 | DaoCloud
+http://mp.weixin.qq.com/s?__biz=MzA5NTUxNzE4MQ==&mid=411690836&idx=1&sn=4aef2e932dc2148b1e97b59c5fb2550f#rd | 你是否真的了解 Docker Swarm？
+http://www.cybertec.at/2016/05/postgresql-performance-advise-unix-sockets-vs-localhost/ | PostgreSQL Performance advise: UNIX sockets vs. localhost
+http://www.tuicool.com/articles/vqyAvmA | 前端路由实现与 react-router 源码分析 - 推酷
+http://www.tuicool.com/articles/6BnUfa6 | Tensorflow lstm regression - 推酷
+http://madusudanan.com/blog/understanding-postgres-caching-in-depth | Understanding caching in Postgres - An in-depth guide - Madusudanan
+http://www.tuicool.com/articles/Erae2qR | The journey to GraphQL from REST - 推酷
+
+http://www.tuicool.com/articles/AfAVjq7 | 以用户体验为视角做运维 实现用户体验可度量 - 推酷
+http://www.tuicool.com/articles/yuyAvaf | 反欺诈架构中的数据架构及其技术挑战 - 推酷
+https://github.com/frankmcsherry/blog/blob/master/posts/2016-05-19.md | blog/2016-05-19.md at master · frankmcsherry/blog
+https://github.com/paulknysh/blackbox/blob/master/blackbox.py | blackbox/blackbox.py at master · paulknysh/blackbox
+http://www.infoworld.com/article/3071679/linux/linux-containers-vs-vms-a-security-comparison.html | Linux containers vs. VMs: A security comparison | InfoWorld
+http://www.tuicool.com/articles/3i6FryV | 可靠分布式系统基础 Paxos 的直观解释 - 推酷
+http://www.tuicool.com/articles/Mryuye | Service Discovery: An Amazon ECS Reference Architecture - 推酷
+http://www.tuicool.com/articles/ABbmMj | Falco: open source, behavioral security from Sysdig - 推酷
+http://www.tuicool.com/articles/m6rQjuy | 用python写一个简单的推荐系统 - 推酷
+http://www.tuicool.com/articles/mAR36rV | Five Simple Steps To Test Your Varnish Cache Deployment Using Varnishtest - 推酷
+http://thevarguy.com/cloud-computing-services-and-business-solutions/5-security-tools-containers-and-microservices#slide-0-field_images-94001 | Photo Gallery: 5 Security Tools for Containers and Microservices | The VAR Guy
+http://www.tuicool.com/articles/A7R3qyy | Linux 内核里的数据结构——基数树 - 推酷
+http://www.tuicool.com/articles/Yv2a2iY | 我只是插了一根网线，全网中断！？ - 推酷
+http://www.tuicool.com/articles/3meYNne | 将整个系统建立在事件溯源上是一种反模式 - 推酷
+http://www.dataschool.io/best-python-pandas-resources/ | Top 8 resources for learning data analysis with pandas
+http://www.tuicool.com/articles/NrEfUvF | Raft consensus algorithm(go-raft) implementation in etcd - 推酷
+http://www.tuicool.com/articles/IfmY3qy | Sharing Your Python Case Studies - 推酷
+http://www.tuicool.com/articles/VVFF7nf | 决策树算法真的越复杂越好吗？ - 推酷
+http://code.haleby.se/2016/05/20/distributed-coordination-with-kubernetes/ | Distributed Coordination with Kubernetes
+http://www.tuicool.com/articles/7VfeQju | Google’s Microservices: Kubernetes and gRPC with Sandeep Dinesh - 推酷
+
+http://www.tuicool.com/articles/FFraQne | Finite state machines with Akka - 推酷
+http://www.tuicool.com/articles/3AzQjeJ | Kata: The Bowling Game - 推酷
+http://www.tuicool.com/articles/eQVFjy3 | So, when do you use a Container or VM? - 推酷
+http://www.tuicool.com/articles/aaYBbaR | 如何用Ansible部署Kubernetes集群到OpenStack - 推酷
+http://www.tuicool.com/articles/EnIjmqy | OpenStack in Action Review and Q&A with the Author - 推酷
+http://www.tuicool.com/articles/mM7ju2Q | Tiny React Renderer - 推酷
+http://www.tuicool.com/articles/aQraQfu | 内网渗透防御：如何防御Hash注入攻击 - 推酷
+http://www.tuicool.com/articles/6BbqYzB | 确保微服务应用安全的四个最佳实践 - 推酷
+http://www.tuicool.com/articles/fqeMZjr | 陈天奇：兔子和分布式机器学习 - 推酷
+http://www.tuicool.com/articles/ZJVnIj | 跨境电商Crazysales的高稳定性架构实践 - 推酷
+http://www.tuicool.com/articles/Bre2Ybj | 精简为王：Docker镜像体积详解 - 推酷
+http://www.tuicool.com/articles/yiyy6bI | 乐观锁的一种实现方式——CAS - 推酷
+http://www.tuicool.com/articles/yAZBVnZ | Docker和Kubernetes用Go语言又怎样？ - 推酷
+http://www.tuicool.com/articles/IRzAriY | Understand Your Machine Learning Data With Descriptive Statistics in Python - 推酷
+http://www.tuicool.com/articles/iyuQBzz | Python Concurrency Decorators - 推酷
+http://www.tuicool.com/articles/bUfi63U | Serverless meets Microservices - 推酷
+http://www.tuicool.com/articles/fa2Yzeb | Pattern matching and guards for Python functions - 推酷
+http://www.tuicool.com/articles/RJBZbyN | L 代表着里氏替换原则 - 推酷
+http://www.tuicool.com/articles/QZji6nq | matplotlib知识点整理 - 推酷
+
+http://www.infoq.com/cn/articles/those-things-of-data-mining-in-the-actual-field | 一线专家谈谈：数据挖掘在实际领域中的那些事儿
+http://www.tuicool.com/articles/zqMZ7fZ | 使用 Feature Branch Workflow 让开发更简单 - 推酷
+http://www.tuicool.com/articles/mqMf6rI | 列式存储 HBase 系统架构学习 - 推酷
+http://www.tuicool.com/articles/7f6jMzA | 在线支付之风控系统架构选型 - 推酷
+http://www.tuicool.com/articles/UJnyair | Python自然语言处理入门 - 推酷
+http://www.tuicool.com/articles/Qj2Yrqb | UDP vs TCP code in Go - 推酷
+http://www.tuicool.com/articles/RBz67bV | Flatpak: the future of application distribution in Linux - 推酷
+http://www.tuicool.com/articles/FJBf2iu | django之基于Class-View定制统一API - 推酷
+http://www.tuicool.com/articles/jIZrqu | Docker网络插件（IPAM Driver） - 推酷
+http://www.tuicool.com/articles/2YrAreZ | 【编写可读代码的艺术】读书笔记 - 推酷
+http://www.tuicool.com/articles/RJnmQz | 机器学习/深度学习/自然语言处理学习路线 - 推酷
+http://www.tuicool.com/articles/EZZjEjQ | 从cacti到Octopux，带宽监测系统另辟蹊径 - 推酷
+http://www.tuicool.com/articles/uEnUFjm | 借助软件演化理解大型代码库 - 推酷
+https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c | A more seamless workflow — style guides for better design and development — Medium
+
+https://blog.buoyant.io/2016/05/04/real-world-microservices-when-services-stop-playing-well-and-start-getting-real/ | Real World Microservices: When Services Stop Playing Well and Start Getting Real
+http://jvns.ca/blog/2016/05/06/a-workshop-on-strace-and-tcpdump/ | A workshop on strace & tcpdump - Julia Evans
+http://travelbythenumbers.com/2016/05/06/single-neuron-gradient-descent/ | Single Neuron Gradient Descent – Travel by the Numbers
+https://mariadb.com/blog/mariadb-and-docker-use-cases-part-1 | MariaDB and Docker use cases, Part 1 | MariaDB
+https://blog.acolyer.org/2016/05/09/finding-surprising-patterns-in-a-time-series-database-in-linear-time-and-space/ | Finding surprising patterns in a time series database in linear time and space | the morning paper
+https://cloudplatform.googleblog.com/2016/05/how-Kubernetes-takes-container-workload-portability-to-the-next-level.html | Google Cloud Platform Blog: How Kubernetes takes container workload portability to the next level
+http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/ | TPOT: A Python tool for automating data science | Dr. Randal S. Olson
+http://www.thebigdata.cn/QiTa/29965.html | [原]解密Airbnb数据流编程神器：Caravel 颠覆许多大数据分析平台的开源工具-其它-@大数据资讯
+http://www.tuicool.com/articles/FJJrmuU | Active Record和Data Mapper的混合ORM - 推酷
+
+http://www.infoq.com/articles/engstrand-microservice-threading | Microservice Threading Models and Their Tradeoffs
+http://www.tuicool.com/articles/6NBzQb | Goroutine使用场景分析 - 推酷
+http://www.tuicool.com/articles/yuUzIry | 对Python的深度学习库Theano的介绍 - 推酷
+http://www.tuicool.com/articles/RjAvQvB | 动态追踪技术（中） - Dtrace、SystemTap、火焰图 - 推酷
+http://www.tuicool.com/articles/IvmIVnv | Introducing Distributed Transaction Tracing for Microservices Monitoring - 推酷
+http://www.tuicool.com/articles/UNfQVrv | Imagetragick(CVE-2016-3714)漏洞分析 - 推酷
+http://www.tuicool.com/articles/eeyuumq | 5 Ways to NOT F**K Up Your Microservices in Production - 推酷
+http://www.tuicool.com/articles/3qEjUrI | 实录分享 | Google Borg 系统 与 Coding Docker 实践 - 推酷
+http://www.tuicool.com/articles/iqyAVje | DockOne微信分享（五十一）：基于Docker、Mesos、Ceph全新技术栈的三地三中心容灾体系之大二层网络 - 推酷
+http://www.tuicool.com/articles/InuiaeE | A Simple Guide to Interoperability Testing (with Examples) - 推酷
+http://www.tuicool.com/articles/bAfMby | RabbitMQ在分布式系统的应用 - 推酷
+http://www.tuicool.com/articles/JN7rqaY | Debug Issues Faster with Breadcrumbs - 推酷
+http://www.tuicool.com/articles/Ijq63mQ | 构建你的独家TensorFlow模型 - 推酷
+http://toil.readthedocs.io/en/latest/ | Toil — Toil 3.2.0a2 documentation
+http://www.tuicool.com/articles/YBrQ3ab | Hack your brain to learn more, faster and better - 推酷
+http://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/ | Introduction to the Python Deep Learning Library TensorFlow - Machine Learning Mastery
+https://medium.com/@DanShappir/the-benefits-of-javascript-premature-optimization-ee3b842c42c8?utm_source=tuicool&utm_medium=referral | https://medium.com/@DanShappir/the-benefits-of-javascript-premature-optimization-ee3b842c42c8?utm_source=tuicool&utm_medium=referral is not available
+http://www.tuicool.com/articles/2iIb6ve | D is for the Dependency Inversion Principle - 推酷
+http://www.tuicool.com/articles/y6jYFz6 | DevSecOps简介（二） - 推酷
+http://www.tuicool.com/articles/3QF7Fjv | 你的代码有重复吗？ - 推酷
+
+http://hansionxu.blog.163.com/blog/static/2416981092016337355221/ | 亿级Web系统的容错性建设实践 - 徐汉彬Hansion的日志 - 网易博客
+https://mozillazg.com/2016/04/apm-python-agent-principle.html | Python 探针实现原理 - Mozillazg's Blog
+http://laohanlinux.github.io/2016/04/25/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Bitcask%E5%BC%95%E6%93%8E%E7%9A%84%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F/ | 使用Golang语言实现一个简单的Bitcask引擎的文件存储系统 | RG
+http://litaotao.github.io/spark-in-finance-and-investing | 『 Spark 』8. 实战案例 ｜ Spark 在金融领域的应用 ｜ 日内走势预测 | Taotao's Zone
+
+https://github.com/ethereum/wiki/wiki/Patricia-Tree | Patricia Tree · ethereum/wiki Wiki
+http://blog.algorithmia.com/2016/04/github-readme-analyzer/ | How to Write a Good GitHub README Using Data Science
+
+http://www.tuicool.com/articles/mArUrqR | Git Mind Map - 推酷
+http://www.tuicool.com/articles/MZ3yYfy | Windows原生运行Linux的技术细节 - 推酷
+http://www.tuicool.com/articles/FNnEzyZ | Edward Z. Yang: Announcing cabal new-build: Nix-style local builds - 推酷
+http://www.tuicool.com/articles/RfuUriq | Introduction to the Python Deep Learning Library Theano - 推酷
+http://www.tuicool.com/articles/myaY7vN | 什么是Docker网络 - 推酷
+http://www.tuicool.com/articles/AvYBJjb | 程序员的成长阶梯和级别定义 - 推酷
+http://www.tuicool.com/articles/VzYBJbA | Slacker: Fast Distribution with Lazy Docker Containers - 推酷
+http://www.tuicool.com/articles/3IF7Fn6 | Strengthening authentication through big data - 推酷
+http://www.tuicool.com/articles/mINn63m | Kubernetes入门（1） - 推酷
+http://www.tuicool.com/articles/jIrUnmz | What Happens to Lazy Programmers? - 推酷
+http://www.tuicool.com/articles/J3mIren | Go best practices, six years in - 推酷
+http://www.tuicool.com/articles/MjMB3eR | 浅析淘宝分布式调用跟踪系统 - 推酷
+http://www.tuicool.com/articles/fYvaaiy | Sass 与 Compass 实战经验总结 - 推酷
+http://www.tuicool.com/articles/VzIrUnJ | Ack Tips - 推酷
+http://www.tuicool.com/articles/EjQbAnZ | Neural Networks Are Impressively Good at Compression - 推酷
+http://www.tuicool.com/articles/ArIbyaj | Apache Flink：特性、概念、组件栈、架构及原理分析 - 推酷
+
+http://www.tuicool.com/articles/VF7Jrm | LinkdeIn 的 Kafka 生态系统 - 推酷
+http://www.tuicool.com/articles/RZbuM3B | Java and Memory Limits in Containers: LXC, Docker and OpenVZ - 推酷
+http://www.tuicool.com/articles/FfUVrmv | Shopping Quizzes: 基于问卷内容的电商网站推荐引擎 - 推酷
+http://www.tuicool.com/articles/NZvmiyZ | 告诉你一个真实的 OpenStack：都谁在用，用来干什么？ - 推酷
+http://www.tuicool.com/articles/qUrQvi7 | Exploratory Data Analysis using Python - 推酷
+http://www.tuicool.com/articles/aa6jMnN | Netflix如何使用Mantis进行运维数据流及批量处理 - 推酷
+http://www.tuicool.com/articles/nMzee2F | Finding Similar Music using Matrix Factorization - 推酷
+http://www.tuicool.com/articles/fmIz2aM | Deep Language Modeling for Question Answering Using Keras - 推酷
+http://www.tuicool.com/articles/fyUZriF | Why immutability matters in React - 推酷
+http://www.tuicool.com/articles/aQfaUr | Analyzing and comparing news headlines (NLP) - 推酷
+http://www.tuicool.com/articles/7j6vy2R | My path to OpenAI - 推酷
+http://www.tuicool.com/articles/M7zABzQ | Train your TensorFlow Models on Rescale - 推酷
+http://www.tuicool.com/articles/Eby2MnQ | Python 类与元类的深度挖掘 - 推酷
+http://www.tuicool.com/articles/AV3i6jj | GrowingIO张溪梦：数据如何驱动产品优化？ - 推酷
+http://www.tuicool.com/articles/rqUbMrm | ScienceOps Spotlight Pt. 2: Prediction Analytics - 推酷
+http://www.tuicool.com/articles/qEFBVnF | Stack Overflow: How We Do Deployment - 2016 Edition - 推酷
+http://www.tuicool.com/articles/iAZnyaV | Probabilistic Programming for Anomaly Detection - 推酷
+http://www.tuicool.com/articles/EBzE7jB | MyISAM与InnoDB的索引结构 - 推酷
+http://www.tuicool.com/articles/If6n2iJ | PostgresSQL HA高可用架构实战/a> - 推酷
+http://www.tuicool.com/articles/mUBvUj | 企业级开发：Gitflow Workflow工作流 - 推酷
+http://www.tuicool.com/articles/YBRZfib | Awesome TensorFlow，包括教程、项目、视频、文献、博客、社群等资源 - 推酷
+
+https://harishnarayanan.org/writing/kubernetes-django/ | Scalable and resilient Django with Kubernetes — Harish Narayanan
+https://news.ycombinator.com/item?id=11412088 | Scalable and resilient Django with Kubernetes | Hacker News
+https://github.com/blog/2141-squash-your-commits | Squash your commits
+https://news.ycombinator.com/item?id=11407289 | Squash your commits | Hacker News
+https://github.com/justmarkham/DAT8 | justmarkham/DAT8: General Assembly's Data Science course in Washington, DC
+https://news.ycombinator.com/item?id=11406817 | General Assembly's Data Science Course | Hacker News
+https://blog.ionelmc.ro/2014/12/28/terrible-choices-mysql/ | https://blog.ionelmc.ro/2014/12/28/terrible-choices-mysql/ is not available
+http://www.eater.com/2016/3/31/11293260/airbnb-for-food-apps-eatwith-feastly | Why No Dining App Is the ‘Airbnb of Food’ (Yet) - Eater
+https://news.ycombinator.com/item?id=11411402 | Rage Against the Finite-State Machines | Hacker News
+http://learnyousomeerlang.com/finite-state-machines | Rage Against The Finite-State Machines | Learn You Some Erlang for Great Good!
+http://www.tuicool.com/articles/IfIJzuZ | 2016北京Qcon技术见闻个人总结 - 推酷
+
+http://www.tuicool.com/articles/IRFzee | 微服务的性能模式 - 推酷
+http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-3/ | A polyglot's guide to multiple dispatch - part 3 - Eli Bendersky's website
+http://www.tuicool.com/articles/vayAZ3E | 不同类型的微服务？ - 推酷
+
+http://www.tuicool.com/articles/yIZfMjf | Docker 网络部分执行流分析（libnetwork源码解读） - 推酷
+http://www.tuicool.com/articles/I7RzYnv | Slides: Twelve Go Best Practices - 推酷
+http://www.tuicool.com/articles/bimume | Inside Queue Models: Markov Chains - 推酷
+http://www.tuicool.com/articles/bamQJjB | What PostgreSQL Tells You About Its Performance - 推酷
+http://www.tuicool.com/articles/FRBz2q3 | ScienceOps Spotlight Pt. 1: Systems Monitoring - 推酷
+http://www.tuicool.com/articles/YFvMNvy | 达观数据搜索引擎的Query自动纠错技术和架构详解 - 推酷
+http://www.tuicool.com/articles/iQ7zymY | 【QCon北京2016】美丽说＆蘑菇街专场重点回顾 - 推酷
+http://www.tuicool.com/articles/baqu6bB | Python数据分析学习路径图(120天Get新技能) - 推酷
+http://www.tuicool.com/articles/jIj6Jf2 | Machine Learning, Recommendation Systems, and Data Analysis at Cloud Academy - 推酷
+http://www.tuicool.com/articles/v6bEfej | 企业大数据安全分析 - 推酷
+http://www.tuicool.com/articles/26Bjam3 | REST to NATS – Proxy for microservices - 推酷
+https://medium.com/@lawrjone/diggit-mining-git-repositories-for-developer-insights-27aebe4070a6#.k2r5cwsr9?utm_source=tuicool&utm_medium=referral | https://medium.com/@lawrjone/diggit-mining-git-repositories-for-developer-insights-27aebe4070a6#.k2r5cwsr9?utm_source=tuicool&utm_medium=referral is not available
+http://www.tuicool.com/articles/vYzAZb | 分布式计算编程模型之RPC - 推酷
+http://www.tuicool.com/articles/BzyiAnf | 谈谈后端业务系统的微服务化改造 - 推酷
+http://www.tuicool.com/articles/mAnyEvY | 记录一种工作流心跳机制的设计 - 推酷
+
+https://blog.cloudflare.com/revenge-listening-sockets/?p=0 | The revenge of the listening sockets
+https://news.ycombinator.com/item?id=11447858 | Hidden latency in the Linux network stack | Hacker News
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.signalvnoise.com%2Fbeing-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e#.vxglxiv8y | https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.signalvnoise.com%2Fbeing-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e#.vxglxiv8y is not available
+https://news.ycombinator.com/item?id=11446260 | Being tired isn’t a badge of honor – Signal v. Noise | Hacker News
+https://www.facebook.com/ia3n.goodfellow/posts/10102223910143043 | Ian Goodfellow - After 2.5 years, my co-authors and I have...
+https://news.ycombinator.com/item?id=11446164 | Free “Deep Learning” Textbook by Goodfellow and Bengio Now Finished | Hacker News
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.signalvnoise.com%2Fwhy-i-love-ugly-messy-interfaces-and-you-probably-do-too-edff4a896a83 | https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.signalvnoise.com%2Fwhy-i-love-ugly-messy-interfaces-and-you-probably-do-too-edff4a896a83 is not available
+https://news.ycombinator.com/item?id=11445902 | Why I love ugly, messy interfaces | Hacker News
+https://cloudplatform.googleblog.com/2016/04/lessons-from-a-Google-App-Engine-SRE-on-how-to-serve-over-100-billion-requests-per-day.html | Google Cloud Platform Blog: Lessons from a Google App Engine SRE on how to serve over 100 billion requests per day
+http://flink.apache.org/news/2016/04/06/cep-monitoring.html | Apache Flink: Introducing Complex Event Processing (CEP) with Apache Flink
+https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ | A Simple Web Developer's Guide To Color – Smashing Magazine
+
+https://rkrishnan.org/posts/2016-03-07-how-is-gopl-typeset.html | Ramakrishnan Muthukrishnan - Brian Kernighan on the typesetting of "The Go Programming Language" book
+https://news.ycombinator.com/item?id=11470905 | Brian Kernighan on the Typesetting of “The Go Programming Language” Book | Hacker News
+http://www.nybooks.com/articles/2016/04/21/revolutionary-discovery-in-china/ | A Revolutionary Discovery in China by Ian Johnson | The New York Review of Books
+http://tutorial.math.lamar.edu/ | Pauls Online Math Notes
+https://news.ycombinator.com/item?id=11469494 | Paul's Online Math Notes | Hacker News
+http://joeduffyblog.com/2016/04/10/performance-culture/ | Joe Duffy - Performance Culture
+https://news.ycombinator.com/item?id=11468603 | Performance Culture | Hacker News
+https://blog.hboeck.de/archives/880-Pwncloud-bad-crypto-in-the-Owncloud-encryption-module.html | Pwncloud – bad crypto in the Owncloud encryption module - Hanno's blog
+https://news.ycombinator.com/item?id=11467747 | Pwncloud – Bad crypto in the Owncloud encryption module | Hacker News
+http://composingprograms.com/ | Composing Programs
+https://news.ycombinator.com/item?id=11465234 | Composing Programs – Python 3 in the tradition of SICP | Hacker News
+http://nautil.us/issue/35/boundaries/how-to-avoid-empathy-burnout | How Putting Yourself First Can Make You a Better Helper
+https://news.ycombinator.com/item?id=11461724 | How to Avoid Empathy Burnout | Hacker News
+http://npf.io/2014/10/why-everyone-hates-go/ | Why Everyone Hates Go · npf.io
+https://news.ycombinator.com/item?id=11454563 | Why Go gets criticized so much | Hacker News
+
+http://www.goodemailcopy.com/ | Good Copy • Email copy from great companies
+http://www.elischiff.com/blog/2016/4/12/do-almost-anything | You Could Almost Do Anything Pt. I — Eli Schiff
+https://news.ycombinator.com/item?id=11482081 | You Could Do Almost Anything Part 1 | Hacker News
+https://www.paypal-engineering.com/2016/04/11/statistics-for-software/ | Statistics for Software | PayPal Engineering Blog
+https://news.ycombinator.com/item?id=11474002 | Notes on Google's Site Reliability Engineering Book | Hacker News
+
+https://news.ycombinator.com/item?id=11494358 | Rust and Nix = easier Unix systems programming | Hacker News
+http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/ | Rust + nix = easier unix systems programming <3
+http://jlongster.com/Two-Weird-Tricks-with-Redux | Two Weird Tricks with Redux
+https://news.ycombinator.com/item?id=11488633 | Two Weird Tricks with Redux | Hacker News
+https://news.ycombinator.com/item?id=11477957 | My personal burnout – Lessons learned | Hacker News
+http://codingwithempathy.com/2016/04/12/my-personal-burnout-lessons-learned/ | My personal burnout - Lessons learned - Coding with Empathy
+http://betterexplained.com/guides/calculus/ | Calculus Learning Guide – BetterExplained
+https://news.ycombinator.com/item?id=11478368 | Calculus Learning Guide | Hacker News
+http://sethgodin.typepad.com/seths_blog/2016/04/our-software-must-get-better.html | Seth's Blog: Our software must get better
+https://news.ycombinator.com/item?id=11478991 | Our software must get better | Hacker News
+http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.59201&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification | A Neural Network Playground
+https://news.ycombinator.com/item?id=11483934 | Tinker with a Neural Network in Your Browser | Hacker News
+http://blog.samaltman.com/cruise | Cruise - Sam Altman
+https://news.ycombinator.com/item?id=11490188 | Cruise | Hacker News
+
+https://www.cockroachlabs.com/blog/diy-jepsen-testing-cockroachdb/ | DIY Jepsen Testing CockroachDB | Blog | Cockroach Labs
+https://www.citusdata.com/blog/14-marco/411-master-less-distributed-queue-postgres-and-pg-paxos | Master-less Distributed Queue with Postgres and PG Paxos | Citus Data
+https://gitlab.com/doctorj/interview-questions | Doctor J / interview-questions · GitLab
+https://news.ycombinator.com/item?id=11496962 | Questions to Ask a Potential Tech Employer | Hacker News
+http://incoherency.co.uk/blog/stories/how-to-make-software-faster.html | James Stanley - How (and why) to make your software faster
+https://news.ycombinator.com/item?id=11503500 | How and why to make your software faster | Hacker News
+https://news.ycombinator.com/item?id=11502989 | Cheap Docker images with Nix | Hacker News
+http://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/ | The engineer’s engineer: Computer industry luminaries salute Dave Cutler’s five-decade-long quest for quality | News Center
+https://news.ycombinator.com/item?id=11508561 | How old were the inventors of major inventions? | Hacker News
+http://andolfatto.blogspot.com/2016/04/how-old-were-inventors-of-major.html | MacroMania: How old were the inventors of major inventions?
+http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf | PaneRatanamahatanaMyers.f
+https://news.ycombinator.com/item?id=11508313 | Study of non-programmers' solutions to programming problems [pdf] | Hacker News
+
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbackchannel.com%2Finstagram-is-ruining-vacation-701086a67440#.axm8wkawc | https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fbackchannel.com%2Finstagram-is-ruining-vacation-701086a67440#.axm8wkawc is not available
+https://news.ycombinator.com/item?id=11518795 | Instagram Is Ruining Vacation | Hacker News
+https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review | React Native: A year in review | Engineering Blog | Facebook Code
+https://news.ycombinator.com/item?id=11517705 | React Native: A year in review | Hacker News
+https://www.evilsocket.net/2016/04/18/how-i-defeated-an-obfuscated-and-anti-tamper-apk-with-some-python-and-a-home-made-smali-emulator/#.VxRu3snMomQ.hackernews | How I defeated an obfuscated and anti-tamper APK with some Python and a home-made Smali emulator.
+https://news.ycombinator.com/item?id=11517856 | How I defeated an anti-tamper APK with some Python and a homemade Smali emulator | Hacker News
+http://brutalistwebsites.com/ | Brutalist Websites
+https://news.ycombinator.com/item?id=11517491 | Brutalist Websites | Hacker News
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://news.ycombinator.com/item?id=11516923 | System Design Interview Cheatsheet | Hacker News
+https://medium.com/@shazow/ssh-how-does-it-even-9e43586e4ffc#.r9qzj6hhl | https://medium.com/@shazow/ssh-how-does-it-even-9e43586e4ffc#.r9qzj6hhl is not available
+https://news.ycombinator.com/item?id=11516582 | Why aren’t we using SSH for everything? (2015) | Hacker News
+http://www.nervanasys.com/demystifying-deep-reinforcement-learning/ | Guest Post (Part I): Demystifying Deep Reinforcement Learning - Nervana
+https://news.ycombinator.com/item?id=11515540 | Deep Reinforcement Learning Explained | Hacker News
+http://raganwald.com/2016/04/15/laziness-is-a-virtue.html | “We will encourage you to develop the three great virtues of a programmer: laziness, impatience, and hubris”
+https://news.ycombinator.com/item?id=11516215 | Develop the three great virtues of a programmer: laziness, impatience, and hubris | Hacker News
+https://news.ycombinator.com/item?id=11515125 | Falsehoods programmers believe about time and time zones | Hacker News
+http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html | Falsehoods programmers believe about time and time zones
+https://taihen.org/managing-dotfiles-with-gnu-stow/ | Managing dotfiles with GNU Stow
+https://news.ycombinator.com/item?id=11515222 | Managing dotfiles with GNU Stow | Hacker News
+
+http://www.algorist.com/ | The Algorithm Design Manual
+https://news.ycombinator.com/item?id=11513268 | Skiena's Algorithms Video Lectures | Hacker News
+http://arstechnica.com/gadgets/2016/04/the-ars-guide-to-building-a-linux-router-from-scratch/ | The Ars guide to building a Linux router from scratch | Ars Technica
+https://news.ycombinator.com/item?id=11514221 | The Ars guide to building a Linux router from scratch | Hacker News
+https://news.ycombinator.com/item?id=11511204 | Challenges of micro-service deployments | Hacker News
+
+https://medium.com/@aonghusdavoren/priority-queue-designing-ryanair-s-boarding-pass-a15895092211#.nce2w1cbg | https://medium.com/@aonghusdavoren/priority-queue-designing-ryanair-s-boarding-pass-a15895092211#.nce2w1cbg is not available
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fnews.greylock.com%2Fwhy-uber-won-5598a2a66561#.hz33sst9k | https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fnews.greylock.com%2Fwhy-uber-won-5598a2a66561#.hz33sst9k is not available
+https://medium.com/@bhorowitz/bill-d9151e6f7538#.wh71inz2l | https://medium.com/@bhorowitz/bill-d9151e6f7538#.wh71inz2l is not available
+https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358#.rykucyq90 | https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358#.rykucyq90 is not available
+
+https://mitpress.mit.edu/books/street-fighting-mathematics | Street-Fighting Mathematics | The MIT Press
+https://news.ycombinator.com/item?id=11523197 | Street-Fighting Mathematics | Hacker News
+https://news.ycombinator.com/item?id=11518198 | Scaling Airbnb with Brian Chesky – Class 18 Notes of Stanford’s CS183C (2015) | Hacker News
+https://github.com/traverseda/pycraft | traverseda/pycraft: A fork of "Minecraft in 500 lines of python" intended to be used as a real engine, instead of as a learning example.
+https://bedquiltdb.github.io/ | BedquiltDB
+https://news.ycombinator.com/item?id=11526923 | A polyglot's guide to multiple dispatch | Hacker News
+http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/ | A polyglot's guide to multiple dispatch - Eli Bendersky's website
+
+http://firstround.com/review/the-remarkable-advantage-of-abundant-thinking/ | The Remarkable Advantage of Abundant Thinking | First Round Review
+https://news.ycombinator.com/item?id=11528270 | The Advantage of Abundant Thinking | Hacker News
+https://arxiv.org/abs/1604.03641 | [1604.03641] Just-in-Time Static Type Checking for Dynamic Languages
+https://news.ycombinator.com/item?id=11528375 | Just-In-Time Static Type Checking for Dynamic Languages | Hacker News
+http://blog.clarifai.com/what-convolutional-neural-networks-see-at-when-they-see-nudity/ | What convolutional neural networks look at when they see nudity – Clarifai Blog | Artificial Intelligence in Action
+https://news.ycombinator.com/item?id=11530304 | What convolutional neural networks look at when they see nudity | Hacker News
+
+https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/ | Detecting the use of "curl | bash" server side | Application Security
+https://news.ycombinator.com/item?id=11532599 | Detecting the use of “curl – bash” server side | Hacker News
+
+http://www.alexkras.com/19-git-tips-for-everyday-use/ | 19 Tips For Everyday Git Use
+https://news.ycombinator.com/item?id=11532281 | Git Tips | Hacker News
+http://babushka.me/ | Babushka - babushka
+http://www.stephenfry.com/2016/04/off-the-grid/ | Off the grid - Official site of Stephen Fry
+https://news.ycombinator.com/item?id=11533528 | Off the Grid | Hacker News
+http://happierhuman.com/hedonic-treadmill/ | The Hedonic Treadmill – If Only Happiness Were As Easy As Marriage, a Big House, and Kids
+https://news.ycombinator.com/item?id=11534391 | The Hedonic Treadmill | Hacker News
+https://github.com/dcos/minuteman | dcos/minuteman: A distributed Load Balancer
+https://news.ycombinator.com/item?id=11533920 | Minuteman: A Distributed HA Load Balancer | Hacker News
+
+http://blog.mldb.ai/blog/posts/2016/04/ml-meets-economics2/ | Datacratic MLDB
+https://www.firstthings.com/article/2016/05/scientific-regress | Scientific Regress by William A. Wilson | Articles | First Things
+https://github.com/pavelgonchar/colornet | pavelgonchar/colornet: Neural Network to colorize grayscale images
+https://news.ycombinator.com/item?id=11540265 | Show HN: Open source colorizing grayscale images with NN | Hacker News
+http://richzhang.github.io/colorization/ | Colorful Image Colorization
+https://github.com/richzhang/colorization | richzhang/colorization: Demo code for Colorful Image Colorization.
+http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-2/ | A polyglot's guide to multiple dispatch - part 2 - Eli Bendersky's website
+https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md | tflearn/README.md at 0.1.0 · tflearn/tflearn
+https://news.ycombinator.com/item?id=11541014 | TensorFlow Simplified Interface Examples | Hacker News
+
+https://www.youtube.com/user/PyDataTV/playlists?view=1&sort=dd | PyData - YouTube
+
+https://news.ycombinator.com/item?id=11545975 | Lessons from Building a Node App in Docker | Hacker News
+http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html?r=0 | Lessons from Building a Node App in Docker
+https://www.psychologicalscience.org/index.php/publications/observer/2013/april-13/why-wait-the-science-behind-procrastination.html | Why Wait? The Science Behind Procrastination - Association for Psychological Science
+https://news.ycombinator.com/item?id=11541675 | Why Wait? the Science Behind Procrastination | Hacker News
+http://www.wired.com/2016/04/computer-science-reveals-exactly-organize-closet/ | How Should You Organize Your Closet? Exactly Like a Computer Organizes Its Memory | WIRED
+https://news.ycombinator.com/item?id=11543188 | Organize Your Closet Like a Computer Organizes Memory | Hacker News
+https://kite.com/blog/thoughts-on-security/ | Kite - News
+https://news.ycombinator.com/item?id=11544523 | Kite: Thoughts on Security | Hacker News
+https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html | Implementers, Solvers, and Finders
+https://news.ycombinator.com/item?id=11542995 | Implementers, Solvers, and Finders | Hacker News
+
+http://hintjens.com/blog:115 | A Protocol for Dying - Hintjens.com
+https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/ | Windows Subsystem for Linux Overview | Windows Subsystem for Linux
+https://mathiasbynens.github.io/rel-noopener/ | About rel=noopener
+https://news.ycombinator.com/item?id=11553740 | About rel=noopener | Hacker News
+http://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/ | When to Rewrite from Scratch - Autopsy of a Failed Software · Code Ahoy
+https://news.ycombinator.com/item?id=11553813 | When to Rewrite from Scratch – Autopsy of Failed Software | Hacker News
+http://www.russbishop.net/monoids-monads-and-functors | Russ Bishop - Functors, Applicatives, and Monads in Plain English
+https://news.ycombinator.com/item?id=11552191 | Functors, Applicatives, and Monads in Plain English | Hacker News
+
+http://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/ | Farewell, App Academy. Hello, Airbnb! (Part 2) | Haseeb Qureshi
+http://bigstory.ap.org/article/d04cc633285c468b8f31f2214cf2feac/ready-set-think-mind-controlled-drones-race-future | Mind. Blown. Brain-controlled drone race pushes future tech
+https://www.facebook.com/notes/blake-ross/aphantasia-how-it-feels-to-be-blind-in-your-mind/10156834777480504 | Aphantasia: How It Feels To Be Blind In Your Mind
+https://news.ycombinator.com/item?id=11559525 | Ask HN: How do you decide what to learn next? | Hacker News
+http://0xec.blogspot.jp/2016/04/reversing-petya-ransomware-with.html | Coding | Reversing: Reversing the petya ransomware with constraint solvers
+https://news.ycombinator.com/item?id=11555866 | Making 1M requests with Python-aiohttp | Hacker News
+http://www.anuncommonlab.com/articles/how-kalman-filters-work/ | How Kalman Filters Work, Part 1 | An Uncommon Lab
+https://news.ycombinator.com/item?id=11561770 | How Kalman Filters Work | Hacker News
+https://nucl.ai/blog/enhance-pixel-art/ | Minecraft, ENHANCE! Neural Networks to Upscale & Stylize Pixel Art | nucl.ai
+http://danluu.com/programming-blogs/ | Modest list of programming blogs
+https://glyph.twistedmatrix.com/2016/04/email-isnt-the-problem.html | Deciphering Glyph :: Email Isn’t The Thing You’re Bad At
+
+https://blog.jooq.org/2016/04/25/10-sql-tricks-that-you-didnt-think-were-possible/ | 10 SQL Tricks That You Didn’t Think Were Possible | Java, SQL and jOOQ.
+https://news.ycombinator.com/item?id=11570348 | SQL Tricks | Hacker News
+http://www.theatlantic.com/business/archive/2016/04/why-so-many-smart-people-arent-happy/479832/?single_page=true | Why So Many Smart People Aren’t Happy - The Atlantic
+https://news.ycombinator.com/item?id=11501493 | The Linux Scheduler: A Decade of Wasted Cores [pdf] | Hacker News
+https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/ | The Linux Scheduler: a Decade of Wasted Cores | the morning paper
+http://www.exceptionnotfound.net/fundamental-laws-of-software-development/ | 15 Fundamental Laws of Software Development
+http://blog.dantup.com/2016/04/have-software-developers-given-up/ | Have Software Developers Given Up?
+https://news.ycombinator.com/item?id=11575155 | Have Software Developers Given Up? | Hacker News
+http://www.catonmat.net/blog/top-100-books-part-five/ | My 100 Favorite Programming, Computer and Science Books: Part Five - good coders code, great coders reuse
+
+http://kellabyte.com/2012/05/30/clarifying-the-saga-pattern/ | Clarifying the Saga pattern « kellabyte
+http://techtraits.com/microservice.html | Challenges of micro-service deployments
+http://python.jobbole.com/84876/ | 深入 Flask 源码理解 Context - Python - 伯乐在线
+http://www.machinalis.com/blog/introduction-to-django-channels/ | Blog | Machinalis
+https://medium.com/@ipestov/all-you-need-to-know-about-web-rendering-c5e27cc77ecb#.501zbusr7 | https://medium.com/@ipestov/all-you-need-to-know-about-web-rendering-c5e27cc77ecb#.501zbusr7 is not available
+http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/ | Sorry ARIMA, but I’m Going Bayesian | Stitch Fix Technology – Multithreaded
+http://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html | Making 1 million requests with python-aiohttp
+https://ponyfoo.com/articles/cross-tab-communication | Cross-tab Communication
+https://css-tricks.com/fun-line-height/ | Fun with line-height! | CSS-Tricks
+http://drops.wooyun.org/papers/15120 | GitHub CSP应用的经验分享 | WooYun知识库
+http://developers.redhat.com/blog/2016/04/19/different-types-of-microservices/ | Different types of microservices? – Red Hat Developer Blog
+
+https://www.youtube.com/playlist?list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0 | Kiwi Pycon 2015 - Christchurch - YouTube
+https://www.youtube.com/playlist?list=PLs4CJRBY5F1KMMpoEWMuBRvHvjBJeAJoS | PyCon Australia 2015 - YouTube
+http://www.pyvideo.org/category/74/pygotham-2015 | pyvideo.org - PyGotham 2015
+
+http://www.tuicool.com/articles/yQZfAz | 揭开 Monad 的神秘面纱 - 推酷
+https://github.com/CamDavidsonPilon/lifelines/ | CamDavidsonPilon/lifelines: Survival analysis in Python
+http://www.tuicool.com/articles/e6rmiue | MVVM奇葩说 - 推酷
+
+http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html | On Use of the Lang Attribute | Adrian Roselli
+https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9?utm_source=html5weekly&utm_medium=email | https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9?utm_source=html5weekly&utm_medium=email is not available
+http://dbushell.com/2016/03/04/css-only-responsive-tables/ | CSS only Responsive Tables – David Bushell – Web Design & Front-end Development (based in Manchester, UK)
+http://developer.telerik.com/featured/why-bootstrap-4-means-sass-has-won/ | Why Bootstrap 4 Means Sass Has Won - Telerik Developer Network
+https://www.campaignmonitor.com/css/ | CSS Support Guide for Email Clients | Campaign Monitor
+http://deanhume.com/Home/BlogPost/push-notifications-on-the-web---google-chrome/10128 | Push Notifications on the Web - Google Chrome | Dean Hume
+https://www.smashingmagazine.com/2015/05/form-inputs-browser-support-issue/ | Form Inputs: The Browser Support Issue You Didn’t Know You Had – Smashing Magazine
+https://www.w3.org/TR/2015/WD-ltli-20150423/ | Language Tags and Locale Identifiers for the World Wide Web
+http://www.sitepoint.com/media-queries-width-vs-device-width/ | Media Queries: Width vs. Device Width
+https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage/ | Where to Store your JWTs - Cookies vs HTML5 Web Storage - Stormpath User Identity API
+
+http://www.tuicool.com/articles/mAnmeaU | Design Patterns in Golang: Decorator - 推酷
+http://www.tuicool.com/articles/ANJjueY | Effective Python › the Book
+http://www.tuicool.com/articles/F3yYraJ | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code - 推酷
+http://www.tuicool.com/articles/juAJ7jE | （译）面向性能的微服务 - 推酷
+http://www.tuicool.com/articles/6f2URvm | 图解 redux 和 react 的关系 - 推酷
+
+http://www.tuicool.com/articles/BB7RJr3 | Char-RNN for Tensorflow - 推酷
+http://www.tuicool.com/articles/eYnyymj | Support Vector Machines for Machine Learning - 推酷
+http://www.tuicool.com/articles/FVraArJ | Getting Started with Data Science Specialties - 推酷
+http://www.tuicool.com/articles/VFBv2yb | Big Data University: Educating One Million Data Scientists - 推酷
+http://www.tuicool.com/articles/fyQ7Brf | Rolling Updates Of Kubernetes On Top Of Fleet - 推酷
+http://www.tuicool.com/articles/eQR7vaZ | Initial, Inherit, Unset, and Revert - 推酷
+http://www.tuicool.com/articles/Mv63eqE | 非主流自然语言处理——遗忘算法系列（一）：算法概述 - 推酷
+http://www.tuicool.com/articles/vEZzmuM | 机器学习系列(9)_机器学习算法一览（附Python和R代码） - 推酷
+
+https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/ | Preload: What Is It Good For? – Smashing Magazine
+http://emailframe.work/ | Responsive HTML Email Framework
+http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/ | Elements of Scale: Composing and Scaling Data Platforms - ben stopford
+http://blog.mailgun.com/security-guide-basic-infrastructure-security/ | Security Guide: How to Protect Your Infrastructure Against the Basic Attacker
+http://www.slideshare.net/i21aneka/about-microservices-containers-and-their-underestimated-impact-on-network-performance | About Microservices, Containers and their Underestimated Impact on Ne…
+http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/ | Analysis of Software Architectures – Firat Atagun
+http://intermezzos.github.io/ | intermezzOS: a little OS
+http://bravenewgeek.com/distributed-systems-are-a-ux-problem/ | Distributed Systems Are a UX Problem – Brave New Geek
+https://speakerdeck.com/hasbro17/kubernetes-a-profile-and-evaluation-study | Kubernetes: A Profile and Evaluation Study // Speaker Deck
+https://speakerdeck.com/niteshkant/crossroads-of-asynchrony-and-graceful-degradation-at-qcon-sf-2015 | https://speakerdeck.com/niteshkant/crossroads-of-asynchrony-and-graceful-degradation-at-qcon-sf-2015 is not available
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+http://www.infoq.com/articles/immutable-layers | Immutable Layers, Not (Just) Infrastructure
+http://blog.daocloud.io/docker-1-11-0/ | Docker 不再是单一的 Docker——记 Docker 1.11.0 版本变更 | DaoCloud
+https://groups.google.com/forum/#!topic/shlug/TqMC1u8pMzc | 数据库选择 ： Oracle , MySQL or Postgresql？ - Google Groups
+http://blog.kubernetes.io/2016/02/state-of-container-world-january-2016.html | Kubernetes: State of the Container World, January 2016
+http://danluu.com/perf-tracing/ | The Nyquist theorem and limitations of sampling profilers today, with glimpses of tracing tools from the future
+https://zachholman.com/posts/deploying-software#conclusion | How to Deploy Software
+https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/ | Managing Machines at Spotify | Labs
+http://blog.cloud66.com/9-crtitical-decisions-needed-to-run-docker-in-production/ | 9 Critical Decisions for Running Docker in Production
+http://jonasboner.com/bla-bla-microservices-bla-bla/ | bla bla microservices bla bla – Jonas Bonér
+http://www.infoq.com/articles/continuous-deployment-containers | Continuous Deployment with Containers
+http://danluu.com/google-sre-book/ | Notes on Google's Site Reliability Engineering book
+https://github.com/airbnb/airflow | airbnb/airflow: Airflow is a system to programmatically author, schedule and monitor data pipelines.
+http://programmers.stackexchange.com/questions/200115/what-is-early-and-late-binding?newsletter=1&nlcode=44917%7c4830 | programming languages - What is early and late binding? - Programmers Stack Exchange
+http://jinchengli.me/post/postgres-query-opt/ | PostgreSQL Query Optimization · Jincheng Li
+https://www.python.org/dev/peps/pep-0456/ | PEP 456 -- Secure and interchangeable hash algorithm | Python.org
+
+http://www.tuicool.com/articles/aiiAryn | Micro on NATS - microservices with messaging - 推酷
+http://www.tuicool.com/articles/zeIfiaY | Linux上下文切换监控 - 推酷
+http://www.tuicool.com/articles/ZjUF73Y | 跨域资源共享 CORS 详解 - 推酷
+http://www.tuicool.com/articles/qQ7Ffmm | 架构漫谈（九）：理清技术、业务和架构的关系 - 推酷
+http://www.tuicool.com/articles/BBzAJjF | Uber是如何基于Go语言构建高QPS服务的？ - 推酷
+http://www.tuicool.com/articles/2iuUraQ | 4330 Data Scientists and No Data Science Renee - 推酷
+http://www.tuicool.com/articles/UbMvaaI | Time Zone Conversion in MySQL - 推酷
+http://www.tuicool.com/articles/7jQzyun | React Router is dead. Long live rrtr - 推酷
+http://www.tuicool.com/articles/jqeYfu2 | What's new in MySQL? - 推酷
+http://www.tuicool.com/articles/AjqYNjj | Petar Partlov: What Does PostgreSQL 9.5 Bring to Developers - 推酷
+http://www.tuicool.com/articles/EjeEVzB | 10倍效率的程序员有哪些好习惯？ - 推酷
+http://www.tuicool.com/articles/uuu6Vry | Kubernetes 1.2 新功能解析：ConfigMap (中) - 推酷
+http://www.tuicool.com/articles/JfaaUrN | 非技术咖眼中：Kubernetes为什么那么重要？ - 推酷
+http://www.tuicool.com/articles/QfUZfuj | Better Interface Design: Logins, Menus, Toggles And Other Fancy Modules - 推酷
+http://www.tuicool.com/articles/vuuErem | 美团机器学习中的数据清洗与特征挖掘实践 - 推酷
+http://www.tuicool.com/articles/aQNn6bm | 前端开发面试题 - 推酷
+https://www.searchenginejournal.com/bing-for-developers/161367/ | Bing Just Became a Powerful New Tool for Developers - Search Engine Journal
+http://www.tuicool.com/articles/eMbIruA | App安全之网络传输安全 - 推酷
+http://www.tuicool.com/articles/nmiABfJ | GitHub's CSP journey - 推酷
+http://blog.2ndquadrant.com/what-is-select-skip-locked-for-in-postgresql-9-5/ | What is SKIP LOCKED for in PostgreSQL 9.5? |
+http://www.tuicool.com/articles/q2m6Nvn | WOT2016李明宇：企业应用OpenStack 还得看专业水平 - 推酷
+http://www.tuicool.com/articles/qUZ7NzE | Google Calendar’s newest feature uses machine learning to help you actually accomplish your... - 推酷
+http://www.tuicool.com/articles/Qvme2iM | Lambda架构实现数据实时更新 - 推酷
+http://www.tuicool.com/articles/fMR7Rv7 | Dependency Injection in Bottle/Flask - 推酷
+http://www.tuicool.com/articles/iINfaiJ | 45倍加速Spark的处理效率？！ - 推酷
+http://www.tuicool.com/articles/qmMJnmy | Linux信号系统 - 推酷
+http://www.tuicool.com/articles/Bb6vmiY | Naive Bayes Tutorial for Machine Learning - 推酷
+http://www.tuicool.com/articles/eqMFfa | Percona Live featured talk with Ying Qiang Zhang — What’s new in AliSQL: Alibaba’s branch o... - 推酷
+http://www.tuicool.com/articles/jMvaIrm | The Art and Science of Storytelling Through Data at Jawbone - 推酷
+
+http://www.cs.cmu.edu/~guyb/realworld.html | 15-853: Algorithms in the Real World
+http://www.tuicool.com/articles/rueuyiR | Git回滚远程版本 - 推酷
+http://www.tuicool.com/articles/fIBJvu2 | Airbnb CSS / Sass 指南 - 推酷
+http://www.tuicool.com/articles/7zie22v | Testing Data Integration Implementations - 推酷
+http://www.tuicool.com/articles/iuaiYjZ | How to Work With JSON Data Using Python - 推酷
+http://www.tuicool.com/articles/3umQfy | 电商网站秒杀与抢购的系统架构 - 推酷
+http://www.tuicool.com/articles/ZBFNn2r | Lists of Sites that can make you a good Coder. - 推酷
+http://www.tuicool.com/articles/rqiIV3F | CoreOS上的Fleet，第一部分 - 推酷
+http://www.tuicool.com/articles/amUBFby | 生产环境用Docker？先搞定这些再说！ - 推酷
+
+http://www.tuicool.com/articles/rAZrYjf | I/O并发编程总结 - 推酷
+http://www.tuicool.com/articles/ZraAj2A | SICP in Python 3 from Berkeley
+http://www.tuicool.com/articles/emUFNfR | Using Django Channels as an Email Sending Queue - 推酷
+http://www.tuicool.com/articles/e2me2qV | Rendering React without browser JavaScript - 推酷
+http://www.tuicool.com/articles/u6FjAzM | Presentation: The Microservices and DevOps Journey - 推酷
+http://www.tuicool.com/articles/iArmIr7 | 使用 Redis 做任务队列 - 推酷
+http://www.tuicool.com/articles/Avmeu2A | OpenStack 通用技术有哪些 - 推酷
+http://www.tuicool.com/articles/NFnMz2z | Go goroutine同步 - 推酷
+http://www.tuicool.com/articles/eeE3Qr7 | NGINX应用性能优化指南（第三部分）：内容缓存、转发和微缓存 - 推酷
+http://www.tuicool.com/articles/UryaEf3 | Google Doorman: Global Distributed Client Side Rate Limiting - 推酷
+http://www.tuicool.com/articles/INvyYjN | Linux系统调用权威指南 - 推酷
+http://www.tuicool.com/articles/mmma6jb | Analyzing the Panama Papers with Neo4j: Data Models, Queries & More - 推酷
+http://www.tuicool.com/articles/BZBNvuZ | Opinion: DevOps Is Dead - 推酷
+http://www.tuicool.com/articles/u677Jvq | DeepMind团队的《Deep Reinforcement Learning in Large Discrete Action Spaces》 - 推酷
+
+http://www.tuicool.com/articles/riy2Yvm | Develop apps faster using Data Binding – Part 2 - 推酷
+http://www.tuicool.com/articles/mAVZJzF | 面向程序员的数据挖掘指南 - 推酷
+http://www.tuicool.com/articles/ZZV3Ifi | 初探OpenStack Mitaka - 推酷
+http://www.tuicool.com/articles/JJnqmei | LIME：一种解释机器学习模型的方法 - 推酷
+http://www.tuicool.com/articles/vmQnayf | Flask config 在 flaskeleton 上的实践 - 推酷
+http://www.tuicool.com/articles/eyInumu | GitHub的DGit改进了平台的可靠性、性能以及可用性 - 推酷
+http://www.tuicool.com/articles/ameqqqe | OSVDB创始人：开源漏洞数据库现在为何关闭了？ - 推酷
+http://www.tuicool.com/articles/2mIrQzj | Looking inside machine learning black boxes - 推酷
+http://www.tuicool.com/articles/zUfAZzu | 一起来啃犀牛书：你懂LOL，也可以懂函数 - 推酷
+http://www.tuicool.com/articles/RzURRni | 10亿红包从天而降，揭秘微信摇一摇背后的技术细节 - 推酷
+http://www.tuicool.com/articles/6fAZVzR | Naive Bayes for Machine Learning - 推酷
+http://www.tuicool.com/articles/MNrQre7 | 初级还是高级开发者，到底区别在哪里？ - 推酷
+http://www.tuicool.com/articles/FZriEve | 当我们犯错时 - 如何知道自己正在犯错？ - 推酷
+http://www.tuicool.com/articles/r6vyy2V | 谷歌的海量数据排序实验史 - 推酷
+http://www.tuicool.com/articles/uEzMj22 | 时间序列数据库武斗大会之 KairosDB 篇 - 推酷
+http://www.tuicool.com/articles/F3YfEvn | 周志华：机器学习的两大派别 - 推酷
+http://www.tuicool.com/articles/jqaiUv | WOT2016苗辉：白山带宽监测系统Octopux如何另辟蹊径？ - 推酷
+
+https://dzone.com/articles/weekly-top-10-your-devops-flavor-1 | Weekly Top 10: Your DevOps Flavor - DZone DevOps
+http://www.tuicool.com/articles/3iqeiui | DockOne微信分享（五十三）：基于docker+kubernetes的一站式运维管理实践 - 推酷
+http://www.tuicool.com/articles/vAF7RjZ | 手机微博运维监控系统实战 - 推酷
+http://www.tuicool.com/articles/nU3YNzR | 看Facebook是如何优化React Native性能 - 推酷
+http://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook | Visual Question Answering Demo in Python Notebook – Aaditya Prakash (Adi) – Random Musings of Computer Vision grad student
+http://www.tuicool.com/articles/raEzean | [译]探秘ES2016中的Decorators - 推酷
+http://www.tuicool.com/articles/vMRJ7nV | Mesos 架构以及源码浅析 - 推酷
+http://www.tuicool.com/articles/yAFVBjf | Having the domain model separated from the persistence model - 推酷
+http://githubengineering.com/introducing-dgit/ | Introducing DGit - GitHub Engineering
+
+http://www.tuicool.com/articles/F3AfIr | riotux | Simple Event Controller, inspired in Flux Pattern. - 推酷
+http://www.tuicool.com/articles/y6jEFvv | Deep Learning for Chatbots, Part 1 – Introduction - 推酷
+http://www.tuicool.com/articles/3YbMjeb | Five ways to paginate in Postgres, from the basic to the exotic - 推酷
+http://www.tuicool.com/articles/3ERrUby | Deep Learning Books - 推酷
+http://www.tuicool.com/articles/uaQJ73Q | Data Normalization in Python - 推酷
+http://www.tuicool.com/articles/nyEzua | Logo Design Basics for Bloggers - 推酷
+http://www.tuicool.com/articles/A7BBf2Q | Pastalog: Simple, realtime visualization of neural network training performance - 推酷
+http://www.tuicool.com/articles/n6JbMzJ | 算法优化之道：避开鞍点 - 推酷
+http://www.tuicool.com/articles/bEVbyqu | [译]探究Netflix数据管道的演进 - 推酷
+http://www.tuicool.com/articles/AJjqAr | Design Pattern training in Mumbai (Value object design pattern) - 推酷
+http://www.tuicool.com/articles/b6RvIrA | Monads Explained Quickly - 推酷
+http://www.tuicool.com/articles/i6rIzyN | Reactive Influx - 推酷
+
+http://www.tuicool.com/articles/ai2u22Z | Modular CSS with React - 推酷
+http://www.tuicool.com/articles/U7n2Mji | 使用Python解析nginx日志文件 - 推酷
+http://www.tuicool.com/articles/QjEfQnB | 如何避免脆弱的代码 - 推酷
+http://www.tuicool.com/articles/MVzQRzN | Go语言编程模式 - 推酷
+http://www.tuicool.com/articles/I3uInuY | 通过Hygieia的DevOps仪表板展现交付管道的端到端聚合视图 - 推酷
+http://www.tuicool.com/articles/yyMzQfM | 好书来袭：谷歌首次披露SRE如何运行百万服务器 - 推酷
+http://www.tuicool.com/articles/ia6bqmu | How I Aced my Technical Interview (by pretending to be a wizard) - 推酷
+http://www.tuicool.com/articles/euERrmv | Tutorial: Build a Redux Powered React Application - 推酷
+http://www.tuicool.com/articles/AZvuyaF | Classification And Regression Trees for Machine Learning - 推酷
+http://www.tuicool.com/articles/NvQ7Rbm | Django's reset password mechanism - 推酷
+http://www.tuicool.com/articles/Z7vqq2I | Python 线程与协程 - 推酷
+http://www.tuicool.com/articles/j22YRrq | MySQL mysqldump数据导出详解 - 推酷
+http://www.tuicool.com/articles/rUbIryJ | 企业互联网+转型实战：如何进行PB级别数据的架构变迁 - 推酷
+http://www.tuicool.com/articles/iaa6NnA | LocalStorage is for Fun - 推酷
+http://www.tuicool.com/articles/ZZNRVfv | Elasticsearch Queries: A Thorough Guide - 推酷
+http://www.tuicool.com/articles/7ZRzYn | MySQL的分页技术总结 - 推酷
+http://www.tuicool.com/articles/uIBzEv2 | 基于内容和用户画像的个性化推荐 - 推酷
+http://www.tuicool.com/articles/jYrEVnN | Caravel：Airbnb的数据探索平台 - 推酷
+
+http://www.mxm.dk/2008/03/python-unicode-lessons-from-school-of.html | mxm - IT's Mad Science: Python Unicode lessons from the school of hard knocks
+https://github.com/ResidentMario/missingno | ResidentMario/missingno: Missing data visualization module for Python.
+https://github.com/EntilZha/PyFunctional | EntilZha/PyFunctional: Python library for creating data pipelines with chain functional programming
+https://github.com/airbnb/caravel | airbnb/caravel: Caravel is a data exploration platform designed to be visual, intuitive, and interactive
+https://realpython.com/blog/python/python-virtual-environments-a-primer/#.Vvk_XbD-AWw.hackernews | Python Virtual Environments - a primer - Real Python
+https://iamtrask.github.io/2015/07/12/basic-python-network/ | A Neural Network in 11 lines of Python (Part 1) - i am trask
+http://zhuanlan.zhihu.com/p/20658538 | 闭包里的自由变量 - 写点代码相关的 - 知乎专栏
+http://qianduan.guru/2016/03/31/Learning-React-Without-Using-React-Part2/ | 抛开 React 学习 React 第二部分 - 前端外刊评论-翻译 前端 前端开发 JavaScript Angular jQuery React Node.js 互联网
+http://blog.leanote.com/post/proyang/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E4%B8%AD%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0 | 【翻译】微服务架构中的服务发现
+https://segmentfault.com/a/1190000004736079 | 定时器在大型web项目中的应用和实现 - 魅族科技开发团队 - SegmentFault
+
+http://lanceolsen.net/preventing-race-conditions-with-fencing-tokens-in-rails/ | Preventing Race Conditions With Fencing Tokens in Rails – Lance Olsen
+https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5#.i1e4h2q3d | Caravel: Airbnb’s data exploration platform — Airbnb Engineering & Data Science — Medium
+https://medium.com/badge-chain/what-is-blockchain-5e4498f05c20#.is2lhyo1r | What is Blockchain? — Badge Chain — Medium
+http://tech.marksblogg.com/billion-nyc-taxi-rides-postgresql.html | A Billion Taxi Rides in PostgreSQL
+https://www.citusdata.com/blog/1872-joe-nelson/409-five-ways-paginate-postgres-basic-exotic | Five ways to paginate in Postgres, from the basic to the exotic | Citus Data
+https://blog.twitter.com/2013/observability-at-twitter | Observability at Twitter | Twitter Blogs
+https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i | Observability at Twitter: technical overview, part I | Twitter Blogs
+http://productivity.stackexchange.com/questions/8728/how-can-i-get-myself-to-go-to-sleep-when-i-know-i-should?newsletter=1&nlcode=44927%7c5d70 | motivation - How can I get myself to go to sleep when I know I should? - Personal Productivity Stack Exchange
+
+http://www.tuicool.com/articles/UZbQFn | iris 真的是最快的Golang 路由框架吗? - 推酷
+http://www.tuicool.com/articles/MZ7Vnm6 | Loading and Using External Data in React - 推酷
+http://www.tuicool.com/articles/7VbENzM | 架构的发展趋势及现状 - 推酷
+http://www.tuicool.com/articles/ymi6jqi | 生活不止有苟且，还有N个免费DevOps开源工具 - 推酷
+http://www.tuicool.com/articles/ae2YnmE | Presentation: Broken Performance Tools - 推酷
+http://www.tuicool.com/articles/b2QfIz3 | Pure vs. Impure Functions - 推酷
+http://www.tuicool.com/articles/2m6JF36 | TensorFlow Simplified Interface - 推酷
+http://www.tuicool.com/articles/beYBrmZ | OpenStack数据库服务Trove解析与实践 - 推酷
+http://www.tuicool.com/articles/jqyauuQ | Building a simple image hosting service with Lambda, S3, and Dynamo - 推酷
+http://www.tuicool.com/articles/jiEnim | 用 Flannel 配置 Kubernetes 网络 - 推酷
+http://www.tuicool.com/articles/RniqmiU | Deep learning will be huge — and here’s who will dominate it - 推酷
+http://www.tuicool.com/articles/nqIJfab | Science, Practice, and Frustratingly Simple Ideas - 推酷
+http://www.tuicool.com/articles/buYZbaN | Dockerized Data Science - 推酷
+http://www.tuicool.com/articles/36zUnyE | 浅析SQLite的锁机制和WAL技术 - 推酷
+http://www.tuicool.com/articles/FFBVzmF | 浏览器Lexer与XSS-HTML编码 - 推酷
+http://www.tuicool.com/articles/ARR3Qj | Pinterest Trends: Insights into unstructured data - 推酷
+http://www.tuicool.com/articles/BBFbiiV | Shaun M. Thomas: PG Phriday: 5 Reasons Postgres Sucks! (You Won’t Believe Number 3!) - 推酷
+http://www.tuicool.com/articles/MbABvmA | Distributed tracing at Yelp - 推酷
+http://www.tuicool.com/articles/aYjIZvA | Squash your commits - 推酷
+http://www.tuicool.com/articles/6R32uuz | How the GitHub contribution graph is harmful - 推酷
+http://www.tuicool.com/articles/e2aYreQ | Realm Threading Deep Dive - 推酷
+http://www.tuicool.com/articles/eeInmab | General Assembly's Excellent Data Science Course by Kevin Markham - 推酷
+http://www.tuicool.com/articles/NbeU3u | The Real Value of Containers for Data Science - 推酷
+
+http://www.tuicool.com/articles/uEfuIvB | You Don’t Know Node: Quick Intro to Core Features - 推酷
+http://www.tuicool.com/articles/ZfmMzaM | 架构漫谈（八）：从架构的角度看如何写好代码 - 推酷
+http://www.tuicool.com/articles/mUJFFvi | How to Remove Duplicates in a Large Dataset Reducing Memory Requirements by 99% - 推酷
+http://www.tuicool.com/articles/FVnUn2q | PredictionIO: Bootstrapping a Movie Recommendation App - 推酷
+http://www.tuicool.com/articles/uQFjyq | HTTP compression continues to put encrypted communications at risk - 推酷
+http://www.tuicool.com/articles/IbuUVnF | Killing CORS Preflight Requests on a React SPA - 推酷
+http://www.tuicool.com/articles/bQf2Avj | Counting with domain specific databases - 推酷
+http://www.tuicool.com/articles/eUNZRrI | A Debugging Thought Process - 推酷
+http://www.tuicool.com/articles/6ruuIvR | Practical Golang: Event multicast/subscription service - 推酷
+http://www.tuicool.com/articles/fuiUBfu | React Native Tutorial: Building Apps with JavaScript - 推酷
+http://www.tuicool.com/articles/7RBbaeV | Own your own shit —— 从 NGINX 日志滚动说起 - 推酷
+http://www.tuicool.com/articles/auYBvuf | Deep Dive Into Python Decorators - 推酷
+http://www.tuicool.com/articles/buAJVvJ | 在让机器「读懂」自然语言之前，人们走过哪些弯路？ - 推酷
+http://www.tuicool.com/articles/raiAN3b | 深入 Flask 源码理解 Context - 推酷
+
 http://www.tuicool.com/articles/aYb2yi | The Essential DevOps Terms you Need to Know - 推酷
 http://www.tuicool.com/articles/ZRJ3Qvb | The Unreasonable Effectiveness of Deep Learning on Spark - 推酷
 http://www.tuicool.com/articles/ymMJraI | 视频访谈： 明略技术合伙人任鑫琦：关系挖掘激发深层数据价值 - 推酷
